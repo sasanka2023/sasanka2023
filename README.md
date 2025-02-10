@@ -7,12 +7,11 @@ Hi there! I'm **[Sasanka]**, a passionate developer who loves building amazing t
 ---
 
 ## 🌟 About Me
-- 🎓 **Education**: [Your Degree or Major] at [Your University]
+- 🎓 **Education**: [BCS] at [University of Ruhuna]
 - 💻 **Specialty**: Full-stack development | AI/ML Enthusiast | Open-source Contributor
-- 🌍 **Location**: [Your Location]
-- 🌱 **Currently Learning**: [Technology or Topic]
-- 🧑‍💻 **Portfolio**: [Your Portfolio URL]
-- 📫 **How to Reach Me**: [Your Email] | [Your LinkedIn](#)
+- 🌍 **Location**: [Ahangama/Galle]
+- 🌱 **Currently Learning**: [Docker, AWS, Microservices]
+- 📫 **How to Reach Me**: [sasankagayathra26@gmail.com] | [Your LinkedIn](#)
 
 ---
 
