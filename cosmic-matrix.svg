@@ -1,0 +1,1170 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 460" width="1000" height="460" role="img" aria-label="Sasanka Gayathra - Full Stack Developer" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo3ZWVmMTgzZC0zZDZjLTRmNjEtOThiZS0zYzA1YjU5YWFhODUAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaIkPRNJHX4yePx4M8CLtq5YAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo5OTYxMzI0Yi01ZGM3LTQxMGUtYTRkNS1mZmQ4OTdkZDAzNGZscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNohKNgSJN4HDboJXK4AHTQ5wAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggRBUxReVJg2KYzHPyljYRhZjBZlCSo2Sta6JHbxjccBSkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaDKVphPtoNYqUI3s25fGDUEAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCBaauM0huEc73wyDFliSz3hSaft+pcDkAZucmiDwiIp+2RuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjYZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjdlZWYxODNkLTNkNmMtNGY2MS05OGJlLTNjMDViNTlhYWE4NS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmQ0YzFjNjc5LWRhNzUtNGEzMi1iMDhkLTA0YmU2ODQxNzE2M3JjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBEFTFF5UmDYpjMc/KWNhGFmMFmUJKjZK1rokdvGNxwFKJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggyUklXAO3mfSdxX5J/TddwBdooCytKShPdwyQgcW2vXqiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggjG8b7cQB/tR0DYalFHN626i8HBphGl23cFhZjGtQcnJ0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQFf4rwri7aLRMX95MsjHbKRwkRStc9dzci9lFtALNWu40q4P9nJfY7u7bmwOxzoiTMqODds17o9qtZczZQViYcI=</c2pa:manifest></metadata>
+<defs>
+<style>
+.star{animation:tw 3s ease-in-out infinite}
+@keyframes tw{0%,100%{opacity:.12}50%{opacity:1}}
+.col{animation:fall linear infinite}
+@keyframes fall{from{transform:translateY(-330px)}to{transform:translateY(480px)}}
+.spin{transform-origin:500px 185px;animation:spin 80s linear infinite}
+.spin2{transform-origin:500px 185px;animation:spin 55s linear infinite reverse}
+.spin3{transform-origin:500px 185px;animation:spin 120s linear infinite}
+.spin4{transform-origin:500px 185px;animation:spin 25s linear infinite}
+.spin5{transform-origin:500px 185px;animation:spin 38s linear infinite reverse}
+@keyframes spin{to{transform:rotate(360deg)}}
+.pulse{transform-origin:500px 185px;animation:pulse 6s ease-in-out infinite}
+@keyframes pulse{0%,100%{transform:scale(.9);opacity:.65}50%{transform:scale(1.1);opacity:1}}
+.pupil{transform-origin:500px 185px;animation:pup 4s ease-in-out infinite}
+@keyframes pup{0%,100%{transform:scale(1,1)}50%{transform:scale(1.5,.95)}}
+.blink{transform-origin:500px 185px;animation:blink 8s infinite}
+@keyframes blink{0%,91%,100%{transform:scaleY(1)}94%{transform:scaleY(.06)}}
+.shoot{animation:shoot 9s linear infinite;opacity:0}
+@keyframes shoot{0%{transform:translate(0,0);opacity:0}2%{opacity:1}11%{transform:translate(300px,170px);opacity:0}100%{transform:translate(300px,170px);opacity:0}}
+.cur{animation:cur 1s steps(1) infinite}
+@keyframes cur{50%{opacity:0}}
+.title{font-family:'Segoe UI','Helvetica Neue',Arial,sans-serif;font-weight:800}
+.mono{font-family:'Fira Code','Consolas','Courier New',monospace}
+.rain{font-family:'MS Gothic','Noto Sans Mono CJK JP','Courier New',monospace;font-size:14px}
+</style>
+
+<radialGradient id="bg" cx="50%" cy="40%" r="75%">
+  <stop offset="0" stop-color="#1b0b3a"/><stop offset=".55" stop-color="#0a0720"/><stop offset="1" stop-color="#02010a"/>
+</radialGradient>
+<radialGradient id="aura" cx="50%" cy="50%" r="50%">
+  <stop offset="0" stop-color="#fbbf24" stop-opacity=".55"/>
+  <stop offset=".35" stop-color="#ec4899" stop-opacity=".30"/>
+  <stop offset=".7" stop-color="#7c3aed" stop-opacity=".15"/>
+  <stop offset="1" stop-color="#7c3aed" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="iris" cx="50%" cy="50%" r="50%">
+  <stop offset="0" stop-color="#a5f3fc"/><stop offset=".45" stop-color="#8b5cf6"/><stop offset=".85" stop-color="#312e81"/><stop offset="1" stop-color="#0b0630"/>
+</radialGradient>
+<radialGradient id="eyefill" cx="50%" cy="50%" r="60%">
+  <stop offset="0" stop-color="#2a1458"/><stop offset="1" stop-color="#07031a"/>
+</radialGradient>
+<linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#fde68a"/><stop offset=".5" stop-color="#fbbf24"/><stop offset="1" stop-color="#f472b6"/>
+</linearGradient>
+<linearGradient id="titlegrad" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#fde68a"/><stop offset=".35" stop-color="#f9a8d4"/><stop offset=".7" stop-color="#c4b5fd"/><stop offset="1" stop-color="#67e8f9"/>
+</linearGradient>
+<linearGradient id="band" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#02010a" stop-opacity="0"/><stop offset=".55" stop-color="#02010a" stop-opacity=".82"/><stop offset="1" stop-color="#02010a" stop-opacity=".95"/>
+</linearGradient>
+<linearGradient id="shootg" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="1" stop-color="#fff"/>
+</linearGradient>
+
+<filter id="nebA" x="0" y="0" width="100%" height="100%">
+  <feTurbulence type="fractalNoise" baseFrequency="0.006 0.011" numOctaves="4" seed="11"/>
+  <feColorMatrix type="matrix" values="0 0 0 0 0.75  0 0 0 0 0.15  0 0 0 0 0.85  2.2 0 0 0 -0.85"/>
+</filter>
+<filter id="nebB" x="0" y="0" width="100%" height="100%">
+  <feTurbulence type="fractalNoise" baseFrequency="0.009 0.007" numOctaves="3" seed="4"/>
+  <feColorMatrix type="matrix" values="0 0 0 0 0.10  0 0 0 0 0.45  0 0 0 0 0.95  2.2 0 0 0 -0.9"/>
+</filter>
+<filter id="glow" x="-30%" y="-60%" width="160%" height="220%">
+  <feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<filter id="softglow" x="-50%" y="-50%" width="200%" height="200%">
+  <feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<clipPath id="round"><rect width="1000" height="460" rx="18"/></clipPath>
+<clipPath id="eyeclip"><path d="M395 185 Q500 92 605 185 Q500 278 395 185 Z"/></clipPath>
+</defs>
+<g clip-path="url(#round)">
+<rect width="1000" height="460" fill="url(#bg)"/>
+<rect width="1000" height="460" filter="url(#nebA)" opacity=".75"/>
+<rect width="1000" height="460" filter="url(#nebB)" opacity=".65"/>
+<circle class="star" cx="639" cy="12" r="1" fill="#ffffff" style="animation-duration:3.0s;animation-delay:-0.8s"/>
+<circle class="star" cx="677" cy="410" r="0.6" fill="#ffffff" style="animation-duration:4.4s;animation-delay:-0.2s"/>
+<circle class="star" cx="219" cy="232" r="0.6" fill="#f5d0fe" style="animation-duration:4.2s;animation-delay:-4.3s"/>
+<circle class="star" cx="220" cy="271" r="0.6" fill="#f5d0fe" style="animation-duration:5.0s;animation-delay:-1.0s"/>
+<circle class="star" cx="340" cy="72" r="1" fill="#bae6fd" style="animation-duration:2.4s;animation-delay:-2.3s"/>
+<circle class="star" cx="847" cy="278" r="0.6" fill="#f5d0fe" style="animation-duration:4.9s;animation-delay:-3.2s"/>
+<circle class="star" cx="79" cy="135" r="1.8" fill="#fde68a" style="animation-duration:5.5s;animation-delay:-2.2s"/>
+<circle class="star" cx="705" cy="21" r="0.8" fill="#fde68a" style="animation-duration:5.1s;animation-delay:-5.9s"/>
+<circle class="star" cx="866" cy="175" r="1.3" fill="#bae6fd" style="animation-duration:4.5s;animation-delay:-2.2s"/>
+<circle class="star" cx="355" cy="308" r="0.6" fill="#fde68a" style="animation-duration:4.4s;animation-delay:-1.0s"/>
+<circle class="star" cx="163" cy="175" r="1.8" fill="#ffffff" style="animation-duration:2.9s;animation-delay:-1.9s"/>
+<circle class="star" cx="229" cy="15" r="1" fill="#bae6fd" style="animation-duration:3.6s;animation-delay:-0.4s"/>
+<circle class="star" cx="213" cy="230" r="1.3" fill="#bae6fd" style="animation-duration:2.6s;animation-delay:-0.8s"/>
+<circle class="star" cx="747" cy="197" r="1.8" fill="#fde68a" style="animation-duration:3.6s;animation-delay:-1.3s"/>
+<circle class="star" cx="510" cy="42" r="0.6" fill="#fde68a" style="animation-duration:5.4s;animation-delay:-0.9s"/>
+<circle class="star" cx="792" cy="194" r="0.6" fill="#f5d0fe" style="animation-duration:3.5s;animation-delay:-3.6s"/>
+<circle class="star" cx="529" cy="447" r="0.6" fill="#bae6fd" style="animation-duration:4.7s;animation-delay:-0.7s"/>
+<circle class="star" cx="769" cy="156" r="1" fill="#bae6fd" style="animation-duration:3.7s;animation-delay:-2.7s"/>
+<circle class="star" cx="972" cy="351" r="1.8" fill="#bae6fd" style="animation-duration:5.7s;animation-delay:-5.2s"/>
+<circle class="star" cx="842" cy="234" r="0.8" fill="#ffffff" style="animation-duration:2.6s;animation-delay:-4.6s"/>
+<circle class="star" cx="599" cy="225" r="0.6" fill="#bae6fd" style="animation-duration:5.7s;animation-delay:-5.3s"/>
+<circle class="star" cx="239" cy="111" r="1.8" fill="#f5d0fe" style="animation-duration:5.8s;animation-delay:-0.5s"/>
+<circle class="star" cx="816" cy="450" r="1.8" fill="#f5d0fe" style="animation-duration:5.1s;animation-delay:-0.8s"/>
+<circle class="star" cx="947" cy="76" r="1.8" fill="#fde68a" style="animation-duration:5.5s;animation-delay:-2.5s"/>
+<circle class="star" cx="929" cy="347" r="0.8" fill="#bae6fd" style="animation-duration:4.9s;animation-delay:-2.4s"/>
+<circle class="star" cx="438" cy="238" r="0.6" fill="#ffffff" style="animation-duration:3.0s;animation-delay:-0.4s"/>
+<circle class="star" cx="588" cy="106" r="0.8" fill="#ffffff" style="animation-duration:2.0s;animation-delay:-4.2s"/>
+<circle class="star" cx="229" cy="416" r="1" fill="#f5d0fe" style="animation-duration:2.3s;animation-delay:-1.4s"/>
+<circle class="star" cx="214" cy="61" r="1.8" fill="#f5d0fe" style="animation-duration:4.3s;animation-delay:-1.5s"/>
+<circle class="star" cx="807" cy="88" r="0.6" fill="#f5d0fe" style="animation-duration:4.6s;animation-delay:-2.1s"/>
+<circle class="star" cx="467" cy="335" r="0.6" fill="#ffffff" style="animation-duration:2.2s;animation-delay:-4.4s"/>
+<circle class="star" cx="249" cy="87" r="1.3" fill="#f5d0fe" style="animation-duration:2.6s;animation-delay:-1.1s"/>
+<circle class="star" cx="250" cy="425" r="1.3" fill="#ffffff" style="animation-duration:5.2s;animation-delay:-5.1s"/>
+<circle class="star" cx="51" cy="460" r="0.6" fill="#fde68a" style="animation-duration:5.9s;animation-delay:-5.6s"/>
+<circle class="star" cx="166" cy="223" r="0.8" fill="#fde68a" style="animation-duration:5.5s;animation-delay:-5.4s"/>
+<circle class="star" cx="379" cy="453" r="1" fill="#bae6fd" style="animation-duration:5.7s;animation-delay:-4.7s"/>
+<circle class="star" cx="423" cy="440" r="1.8" fill="#fde68a" style="animation-duration:4.6s;animation-delay:-2.9s"/>
+<circle class="star" cx="297" cy="446" r="1.8" fill="#bae6fd" style="animation-duration:4.9s;animation-delay:-0.4s"/>
+<circle class="star" cx="57" cy="269" r="1.8" fill="#ffffff" style="animation-duration:5.7s;animation-delay:-3.2s"/>
+<circle class="star" cx="961" cy="37" r="0.8" fill="#fde68a" style="animation-duration:2.3s;animation-delay:-0.4s"/>
+<circle class="star" cx="404" cy="433" r="1.8" fill="#ffffff" style="animation-duration:3.0s;animation-delay:-3.6s"/>
+<circle class="star" cx="419" cy="268" r="1.8" fill="#bae6fd" style="animation-duration:3.3s;animation-delay:-1.6s"/>
+<circle class="star" cx="239" cy="182" r="1" fill="#ffffff" style="animation-duration:3.8s;animation-delay:-5.6s"/>
+<circle class="star" cx="9" cy="286" r="1.8" fill="#fde68a" style="animation-duration:6.0s;animation-delay:-0.4s"/>
+<circle class="star" cx="506" cy="61" r="1" fill="#bae6fd" style="animation-duration:5.5s;animation-delay:-5.3s"/>
+<circle class="star" cx="285" cy="202" r="1.8" fill="#ffffff" style="animation-duration:4.8s;animation-delay:-3.7s"/>
+<circle class="star" cx="668" cy="255" r="0.6" fill="#ffffff" style="animation-duration:5.8s;animation-delay:-0.8s"/>
+<circle class="star" cx="890" cy="342" r="0.8" fill="#bae6fd" style="animation-duration:3.1s;animation-delay:-3.6s"/>
+<circle class="star" cx="204" cy="292" r="1" fill="#ffffff" style="animation-duration:4.0s;animation-delay:-1.5s"/>
+<circle class="star" cx="92" cy="195" r="1" fill="#fde68a" style="animation-duration:2.2s;animation-delay:-2.0s"/>
+<circle class="star" cx="637" cy="120" r="1.3" fill="#ffffff" style="animation-duration:4.2s;animation-delay:-2.6s"/>
+<circle class="star" cx="112" cy="435" r="0.8" fill="#fde68a" style="animation-duration:4.2s;animation-delay:-5.0s"/>
+<circle class="star" cx="430" cy="19" r="1" fill="#ffffff" style="animation-duration:5.6s;animation-delay:-4.8s"/>
+<circle class="star" cx="899" cy="97" r="0.8" fill="#f5d0fe" style="animation-duration:4.7s;animation-delay:-2.1s"/>
+<circle class="star" cx="974" cy="345" r="0.8" fill="#fde68a" style="animation-duration:5.5s;animation-delay:-5.9s"/>
+<circle class="star" cx="881" cy="11" r="1" fill="#fde68a" style="animation-duration:5.1s;animation-delay:-2.5s"/>
+<circle class="star" cx="267" cy="362" r="0.6" fill="#f5d0fe" style="animation-duration:3.5s;animation-delay:-0.2s"/>
+<circle class="star" cx="222" cy="376" r="1.3" fill="#fde68a" style="animation-duration:3.4s;animation-delay:-4.9s"/>
+<circle class="star" cx="223" cy="304" r="1.3" fill="#bae6fd" style="animation-duration:3.3s;animation-delay:-5.2s"/>
+<circle class="star" cx="351" cy="234" r="1.8" fill="#bae6fd" style="animation-duration:3.3s;animation-delay:-0.2s"/>
+<circle class="star" cx="179" cy="443" r="1" fill="#bae6fd" style="animation-duration:2.2s;animation-delay:-3.6s"/>
+<circle class="star" cx="729" cy="144" r="1.8" fill="#fde68a" style="animation-duration:5.9s;animation-delay:-0.7s"/>
+<circle class="star" cx="255" cy="326" r="0.6" fill="#fde68a" style="animation-duration:4.1s;animation-delay:-4.8s"/>
+<circle class="star" cx="364" cy="32" r="1" fill="#ffffff" style="animation-duration:4.5s;animation-delay:-4.0s"/>
+<circle class="star" cx="720" cy="138" r="1" fill="#bae6fd" style="animation-duration:4.7s;animation-delay:-2.0s"/>
+<circle class="star" cx="554" cy="88" r="1.3" fill="#bae6fd" style="animation-duration:4.7s;animation-delay:-5.4s"/>
+<circle class="star" cx="406" cy="384" r="1" fill="#bae6fd" style="animation-duration:3.1s;animation-delay:-2.6s"/>
+<circle class="star" cx="465" cy="203" r="0.8" fill="#fde68a" style="animation-duration:4.0s;animation-delay:-4.8s"/>
+<circle class="star" cx="659" cy="131" r="1.8" fill="#fde68a" style="animation-duration:3.3s;animation-delay:-4.9s"/>
+<circle class="star" cx="673" cy="103" r="0.8" fill="#f5d0fe" style="animation-duration:2.6s;animation-delay:-0.3s"/>
+<circle class="star" cx="611" cy="354" r="1.3" fill="#fde68a" style="animation-duration:3.7s;animation-delay:-3.8s"/>
+<circle class="star" cx="718" cy="177" r="1.3" fill="#ffffff" style="animation-duration:3.0s;animation-delay:-3.9s"/>
+<circle class="star" cx="893" cy="396" r="0.6" fill="#f5d0fe" style="animation-duration:5.1s;animation-delay:-1.3s"/>
+<circle class="star" cx="50" cy="115" r="0.6" fill="#bae6fd" style="animation-duration:3.8s;animation-delay:-4.8s"/>
+<circle class="star" cx="950" cy="410" r="1.8" fill="#f5d0fe" style="animation-duration:5.3s;animation-delay:-5.4s"/>
+<circle class="star" cx="831" cy="252" r="0.8" fill="#bae6fd" style="animation-duration:5.0s;animation-delay:-2.8s"/>
+<circle class="star" cx="752" cy="386" r="1" fill="#fde68a" style="animation-duration:5.1s;animation-delay:-3.1s"/>
+<circle class="star" cx="275" cy="36" r="1" fill="#ffffff" style="animation-duration:2.9s;animation-delay:-2.0s"/>
+<circle class="star" cx="138" cy="106" r="0.8" fill="#f5d0fe" style="animation-duration:4.8s;animation-delay:-0.4s"/>
+<circle class="star" cx="331" cy="214" r="0.6" fill="#ffffff" style="animation-duration:2.8s;animation-delay:-2.5s"/>
+<circle class="star" cx="857" cy="352" r="1.3" fill="#bae6fd" style="animation-duration:3.9s;animation-delay:-5.7s"/>
+<circle class="star" cx="753" cy="393" r="1.3" fill="#fde68a" style="animation-duration:4.2s;animation-delay:-4.4s"/>
+<circle class="star" cx="488" cy="126" r="1.3" fill="#f5d0fe" style="animation-duration:2.1s;animation-delay:-2.0s"/>
+<circle class="star" cx="724" cy="387" r="0.8" fill="#f5d0fe" style="animation-duration:5.9s;animation-delay:-3.2s"/>
+<circle class="star" cx="592" cy="305" r="0.6" fill="#f5d0fe" style="animation-duration:4.6s;animation-delay:-0.8s"/>
+<circle class="star" cx="182" cy="120" r="1" fill="#f5d0fe" style="animation-duration:2.8s;animation-delay:-2.0s"/>
+<circle class="star" cx="278" cy="438" r="1.3" fill="#ffffff" style="animation-duration:3.0s;animation-delay:-0.5s"/>
+<circle class="star" cx="749" cy="24" r="1" fill="#ffffff" style="animation-duration:2.9s;animation-delay:-0.4s"/>
+<circle class="star" cx="754" cy="437" r="0.8" fill="#fde68a" style="animation-duration:5.4s;animation-delay:-3.7s"/>
+<circle class="star" cx="126" cy="308" r="1.8" fill="#bae6fd" style="animation-duration:5.8s;animation-delay:-2.8s"/>
+<circle class="star" cx="767" cy="77" r="1.8" fill="#fde68a" style="animation-duration:5.9s;animation-delay:-4.3s"/>
+<circle class="star" cx="965" cy="50" r="0.6" fill="#f5d0fe" style="animation-duration:5.7s;animation-delay:-3.5s"/>
+<circle class="star" cx="397" cy="329" r="0.6" fill="#fde68a" style="animation-duration:4.4s;animation-delay:-5.0s"/>
+<circle class="star" cx="102" cy="355" r="1.8" fill="#ffffff" style="animation-duration:5.2s;animation-delay:-4.8s"/>
+<circle class="star" cx="347" cy="197" r="1" fill="#ffffff" style="animation-duration:2.3s;animation-delay:-3.9s"/>
+<circle class="star" cx="850" cy="378" r="0.6" fill="#f5d0fe" style="animation-duration:3.7s;animation-delay:-2.2s"/>
+<circle class="star" cx="707" cy="200" r="1.8" fill="#f5d0fe" style="animation-duration:5.9s;animation-delay:-1.6s"/>
+<circle class="star" cx="465" cy="380" r="1.8" fill="#ffffff" style="animation-duration:3.1s;animation-delay:-5.1s"/>
+<circle class="star" cx="279" cy="207" r="1.3" fill="#bae6fd" style="animation-duration:4.3s;animation-delay:-4.0s"/>
+<circle class="star" cx="29" cy="391" r="0.8" fill="#bae6fd" style="animation-duration:4.0s;animation-delay:-2.1s"/>
+<circle class="star" cx="340" cy="405" r="1" fill="#fde68a" style="animation-duration:4.2s;animation-delay:-3.1s"/>
+<circle class="star" cx="86" cy="331" r="1.3" fill="#f5d0fe" style="animation-duration:4.2s;animation-delay:-1.4s"/>
+<circle class="star" cx="646" cy="226" r="0.6" fill="#fde68a" style="animation-duration:2.4s;animation-delay:-1.3s"/>
+<circle class="star" cx="306" cy="268" r="1.3" fill="#bae6fd" style="animation-duration:4.2s;animation-delay:-2.1s"/>
+<circle class="star" cx="352" cy="209" r="1" fill="#fde68a" style="animation-duration:3.0s;animation-delay:-0.7s"/>
+<circle class="star" cx="316" cy="342" r="0.8" fill="#bae6fd" style="animation-duration:2.8s;animation-delay:-4.4s"/>
+<circle class="star" cx="725" cy="449" r="1.8" fill="#fde68a" style="animation-duration:4.4s;animation-delay:-5.9s"/>
+<circle class="star" cx="296" cy="166" r="1" fill="#bae6fd" style="animation-duration:2.1s;animation-delay:-3.2s"/>
+<circle class="star" cx="46" cy="25" r="1" fill="#f5d0fe" style="animation-duration:4.8s;animation-delay:-0.8s"/>
+<circle class="star" cx="103" cy="6" r="1" fill="#fde68a" style="animation-duration:3.9s;animation-delay:-2.6s"/>
+<g class="shoot" style="animation-delay:0s"><line x1="-10" y1="-10" x2="60" y2="30" stroke="url(#shootg)" stroke-width="2" stroke-linecap="round"/></g>
+<g class="shoot" style="animation-delay:-3.5s"><line x1="350" y1="-30" x2="420" y2="10" stroke="url(#shootg)" stroke-width="2" stroke-linecap="round"/></g>
+<g class="shoot" style="animation-delay:-6s"><line x1="110" y1="80" x2="180" y2="120" stroke="url(#shootg)" stroke-width="2" stroke-linecap="round"/></g>
+<circle class="pulse" cx="500" cy="185" r="260" fill="url(#aura)"/>
+<g class="rain" opacity=".8">
+<g class="col" style="animation-duration:6.1s;animation-delay:-0.4s"><text x="24" y="0">
+<tspan x="24" dy="16" fill="#00ff9c" fill-opacity="0.09">/</tspan>
+<tspan x="24" dy="16" fill="#00ff9c" fill-opacity="0.10">ｺ</tspan>
+<tspan x="24" dy="16" fill="#00ff9c" fill-opacity="0.13">ｷ</tspan>
+<tspan x="24" dy="16" fill="#00ff9c" fill-opacity="0.15">ﾅ</tspan>
+<tspan x="24" dy="16" fill="#00ff9c" fill-opacity="0.19">ﾅ</tspan>
+<tspan x="24" dy="16" fill="#00ff9c" fill-opacity="0.22">ﾘ</tspan>
+<tspan x="24" dy="16" fill="#00ff9c" fill-opacity="0.26">ｻ</tspan>
+<tspan x="24" dy="16" fill="#00ff9c" fill-opacity="0.30">ﾑ</tspan>
+<tspan x="24" dy="16" fill="#00ff9c" fill-opacity="0.35">ﾀ</tspan>
+<tspan x="24" dy="16" fill="#00ff9c" fill-opacity="0.40">9</tspan>
+<tspan x="24" dy="16" fill="#00ff9c" fill-opacity="0.45">ﾎ</tspan>
+<tspan x="24" dy="16" fill="#00ff9c" fill-opacity="0.51">+</tspan>
+<tspan x="24" dy="16" fill="#00ff9c" fill-opacity="0.57">4</tspan>
+<tspan x="24" dy="16" fill="#00ff9c" fill-opacity="0.63">D</tspan>
+<tspan x="24" dy="16" fill="#00ff9c" fill-opacity="0.69">C</tspan>
+<tspan x="24" dy="16" fill="#00ff9c" fill-opacity="0.76">ﾘ</tspan>
+<tspan x="24" dy="16" fill="#e8fff3" fill-opacity="1.00">A</tspan>
+</text></g>
+<g class="col" style="animation-duration:5.8s;animation-delay:-5.6s"><text x="40" y="0">
+<tspan x="40" dy="16" fill="#00ff9c" fill-opacity="0.09">ｽ</tspan>
+<tspan x="40" dy="16" fill="#00ff9c" fill-opacity="0.10">ﾌ</tspan>
+<tspan x="40" dy="16" fill="#00ff9c" fill-opacity="0.12">ﾍ</tspan>
+<tspan x="40" dy="16" fill="#00ff9c" fill-opacity="0.14">ﾓ</tspan>
+<tspan x="40" dy="16" fill="#00ff9c" fill-opacity="0.17">ｻ</tspan>
+<tspan x="40" dy="16" fill="#00ff9c" fill-opacity="0.20">ﾆ</tspan>
+<tspan x="40" dy="16" fill="#00ff9c" fill-opacity="0.23">ﾐ</tspan>
+<tspan x="40" dy="16" fill="#00ff9c" fill-opacity="0.27">ﾈ</tspan>
+<tspan x="40" dy="16" fill="#00ff9c" fill-opacity="0.31">ｺ</tspan>
+<tspan x="40" dy="16" fill="#00ff9c" fill-opacity="0.35">ﾆ</tspan>
+<tspan x="40" dy="16" fill="#00ff9c" fill-opacity="0.39">ｱ</tspan>
+<tspan x="40" dy="16" fill="#00ff9c" fill-opacity="0.44">8</tspan>
+<tspan x="40" dy="16" fill="#00ff9c" fill-opacity="0.49">D</tspan>
+<tspan x="40" dy="16" fill="#00ff9c" fill-opacity="0.54">&lt;</tspan>
+<tspan x="40" dy="16" fill="#00ff9c" fill-opacity="0.59">ﾗ</tspan>
+<tspan x="40" dy="16" fill="#00ff9c" fill-opacity="0.65">ｵ</tspan>
+<tspan x="40" dy="16" fill="#00ff9c" fill-opacity="0.71">ﾏ</tspan>
+<tspan x="40" dy="16" fill="#00ff9c" fill-opacity="0.77">ﾖ</tspan>
+<tspan x="40" dy="16" fill="#e8fff3" fill-opacity="1.00">ﾖ</tspan>
+</text></g>
+<g class="col" style="animation-duration:5.9s;animation-delay:-1.4s"><text x="56" y="0">
+<tspan x="56" dy="16" fill="#00ff9c" fill-opacity="0.09">ﾓ</tspan>
+<tspan x="56" dy="16" fill="#00ff9c" fill-opacity="0.10">ﾋ</tspan>
+<tspan x="56" dy="16" fill="#00ff9c" fill-opacity="0.13">A</tspan>
+<tspan x="56" dy="16" fill="#00ff9c" fill-opacity="0.15">ｿ</tspan>
+<tspan x="56" dy="16" fill="#00ff9c" fill-opacity="0.19">ﾎ</tspan>
+<tspan x="56" dy="16" fill="#00ff9c" fill-opacity="0.22">ﾅ</tspan>
+<tspan x="56" dy="16" fill="#00ff9c" fill-opacity="0.26">ﾔ</tspan>
+<tspan x="56" dy="16" fill="#00ff9c" fill-opacity="0.30">ﾃ</tspan>
+<tspan x="56" dy="16" fill="#00ff9c" fill-opacity="0.35">ｺ</tspan>
+<tspan x="56" dy="16" fill="#00ff9c" fill-opacity="0.40">ｸ</tspan>
+<tspan x="56" dy="16" fill="#00ff9c" fill-opacity="0.45">ﾇ</tspan>
+<tspan x="56" dy="16" fill="#00ff9c" fill-opacity="0.51">ﾙ</tspan>
+<tspan x="56" dy="16" fill="#00ff9c" fill-opacity="0.57">ﾖ</tspan>
+<tspan x="56" dy="16" fill="#00ff9c" fill-opacity="0.63">C</tspan>
+<tspan x="56" dy="16" fill="#00ff9c" fill-opacity="0.69">ﾀ</tspan>
+<tspan x="56" dy="16" fill="#00ff9c" fill-opacity="0.76">F</tspan>
+<tspan x="56" dy="16" fill="#e8fff3" fill-opacity="1.00">ﾘ</tspan>
+</text></g>
+<g class="col" style="animation-duration:8.3s;animation-delay:-4.1s"><text x="72" y="0">
+<tspan x="72" dy="16" fill="#00ff9c" fill-opacity="0.09">ｻ</tspan>
+<tspan x="72" dy="16" fill="#00ff9c" fill-opacity="0.11">ｶ</tspan>
+<tspan x="72" dy="16" fill="#00ff9c" fill-opacity="0.14">B</tspan>
+<tspan x="72" dy="16" fill="#00ff9c" fill-opacity="0.18">ﾛ</tspan>
+<tspan x="72" dy="16" fill="#00ff9c" fill-opacity="0.22">ﾒ</tspan>
+<tspan x="72" dy="16" fill="#00ff9c" fill-opacity="0.27">ｴ</tspan>
+<tspan x="72" dy="16" fill="#00ff9c" fill-opacity="0.33">ｼ</tspan>
+<tspan x="72" dy="16" fill="#00ff9c" fill-opacity="0.39">ﾏ</tspan>
+<tspan x="72" dy="16" fill="#00ff9c" fill-opacity="0.45">ｳ</tspan>
+<tspan x="72" dy="16" fill="#00ff9c" fill-opacity="0.52">ﾔ</tspan>
+<tspan x="72" dy="16" fill="#00ff9c" fill-opacity="0.59">ｶ</tspan>
+<tspan x="72" dy="16" fill="#00ff9c" fill-opacity="0.67">ﾈ</tspan>
+<tspan x="72" dy="16" fill="#00ff9c" fill-opacity="0.75">&lt;</tspan>
+<tspan x="72" dy="16" fill="#e8fff3" fill-opacity="1.00">+</tspan>
+</text></g>
+<g class="col" style="animation-duration:6.5s;animation-delay:-3.8s"><text x="88" y="0">
+<tspan x="88" dy="16" fill="#00ff9c" fill-opacity="0.09">/</tspan>
+<tspan x="88" dy="16" fill="#00ff9c" fill-opacity="0.11">ｼ</tspan>
+<tspan x="88" dy="16" fill="#00ff9c" fill-opacity="0.14">&lt;</tspan>
+<tspan x="88" dy="16" fill="#00ff9c" fill-opacity="0.18">0</tspan>
+<tspan x="88" dy="16" fill="#00ff9c" fill-opacity="0.22">8</tspan>
+<tspan x="88" dy="16" fill="#00ff9c" fill-opacity="0.27">ﾜ</tspan>
+<tspan x="88" dy="16" fill="#00ff9c" fill-opacity="0.33">ﾛ</tspan>
+<tspan x="88" dy="16" fill="#00ff9c" fill-opacity="0.39">ｾ</tspan>
+<tspan x="88" dy="16" fill="#00ff9c" fill-opacity="0.45">ﾆ</tspan>
+<tspan x="88" dy="16" fill="#00ff9c" fill-opacity="0.52">ﾜ</tspan>
+<tspan x="88" dy="16" fill="#00ff9c" fill-opacity="0.59">8</tspan>
+<tspan x="88" dy="16" fill="#00ff9c" fill-opacity="0.67">{</tspan>
+<tspan x="88" dy="16" fill="#00ff9c" fill-opacity="0.75">ﾖ</tspan>
+<tspan x="88" dy="16" fill="#e8fff3" fill-opacity="1.00">7</tspan>
+</text></g>
+<g class="col" style="animation-duration:5.7s;animation-delay:-0.5s"><text x="104" y="0">
+<tspan x="104" dy="16" fill="#00ff9c" fill-opacity="0.09">ﾒ</tspan>
+<tspan x="104" dy="16" fill="#00ff9c" fill-opacity="0.10">ﾛ</tspan>
+<tspan x="104" dy="16" fill="#00ff9c" fill-opacity="0.12">ｿ</tspan>
+<tspan x="104" dy="16" fill="#00ff9c" fill-opacity="0.15">7</tspan>
+<tspan x="104" dy="16" fill="#00ff9c" fill-opacity="0.18">=</tspan>
+<tspan x="104" dy="16" fill="#00ff9c" fill-opacity="0.21">ｱ</tspan>
+<tspan x="104" dy="16" fill="#00ff9c" fill-opacity="0.25">F</tspan>
+<tspan x="104" dy="16" fill="#00ff9c" fill-opacity="0.28">8</tspan>
+<tspan x="104" dy="16" fill="#00ff9c" fill-opacity="0.33">ｷ</tspan>
+<tspan x="104" dy="16" fill="#00ff9c" fill-opacity="0.37">ﾊ</tspan>
+<tspan x="104" dy="16" fill="#00ff9c" fill-opacity="0.42">+</tspan>
+<tspan x="104" dy="16" fill="#00ff9c" fill-opacity="0.47">2</tspan>
+<tspan x="104" dy="16" fill="#00ff9c" fill-opacity="0.53">{</tspan>
+<tspan x="104" dy="16" fill="#00ff9c" fill-opacity="0.58">C</tspan>
+<tspan x="104" dy="16" fill="#00ff9c" fill-opacity="0.64">ｷ</tspan>
+<tspan x="104" dy="16" fill="#00ff9c" fill-opacity="0.70">ﾌ</tspan>
+<tspan x="104" dy="16" fill="#00ff9c" fill-opacity="0.76">ﾔ</tspan>
+<tspan x="104" dy="16" fill="#e8fff3" fill-opacity="1.00">ﾁ</tspan>
+</text></g>
+<g class="col" style="animation-duration:6.2s;animation-delay:-6.0s"><text x="136" y="0">
+<tspan x="136" dy="16" fill="#00ff9c" fill-opacity="0.09">ﾐ</tspan>
+<tspan x="136" dy="16" fill="#00ff9c" fill-opacity="0.10">ﾆ</tspan>
+<tspan x="136" dy="16" fill="#00ff9c" fill-opacity="0.13">ﾙ</tspan>
+<tspan x="136" dy="16" fill="#00ff9c" fill-opacity="0.15">ｲ</tspan>
+<tspan x="136" dy="16" fill="#00ff9c" fill-opacity="0.19">8</tspan>
+<tspan x="136" dy="16" fill="#00ff9c" fill-opacity="0.22">ｼ</tspan>
+<tspan x="136" dy="16" fill="#00ff9c" fill-opacity="0.26">ﾎ</tspan>
+<tspan x="136" dy="16" fill="#00ff9c" fill-opacity="0.30">ｿ</tspan>
+<tspan x="136" dy="16" fill="#00ff9c" fill-opacity="0.35">F</tspan>
+<tspan x="136" dy="16" fill="#00ff9c" fill-opacity="0.40">ﾀ</tspan>
+<tspan x="136" dy="16" fill="#00ff9c" fill-opacity="0.45">ﾅ</tspan>
+<tspan x="136" dy="16" fill="#00ff9c" fill-opacity="0.51">{</tspan>
+<tspan x="136" dy="16" fill="#00ff9c" fill-opacity="0.57">ﾗ</tspan>
+<tspan x="136" dy="16" fill="#00ff9c" fill-opacity="0.63">=</tspan>
+<tspan x="136" dy="16" fill="#00ff9c" fill-opacity="0.69">ﾔ</tspan>
+<tspan x="136" dy="16" fill="#00ff9c" fill-opacity="0.76">9</tspan>
+<tspan x="136" dy="16" fill="#e8fff3" fill-opacity="1.00">&gt;</tspan>
+</text></g>
+<g class="col" style="animation-duration:6.3s;animation-delay:-1.2s"><text x="168" y="0">
+<tspan x="168" dy="16" fill="#00ff9c" fill-opacity="0.09">=</tspan>
+<tspan x="168" dy="16" fill="#00ff9c" fill-opacity="0.10">ﾂ</tspan>
+<tspan x="168" dy="16" fill="#00ff9c" fill-opacity="0.12">ｹ</tspan>
+<tspan x="168" dy="16" fill="#00ff9c" fill-opacity="0.15">ﾕ</tspan>
+<tspan x="168" dy="16" fill="#00ff9c" fill-opacity="0.18">9</tspan>
+<tspan x="168" dy="16" fill="#00ff9c" fill-opacity="0.21">ﾝ</tspan>
+<tspan x="168" dy="16" fill="#00ff9c" fill-opacity="0.25">}</tspan>
+<tspan x="168" dy="16" fill="#00ff9c" fill-opacity="0.28">ﾔ</tspan>
+<tspan x="168" dy="16" fill="#00ff9c" fill-opacity="0.33">ｱ</tspan>
+<tspan x="168" dy="16" fill="#00ff9c" fill-opacity="0.37">ﾖ</tspan>
+<tspan x="168" dy="16" fill="#00ff9c" fill-opacity="0.42">ﾘ</tspan>
+<tspan x="168" dy="16" fill="#00ff9c" fill-opacity="0.47">/</tspan>
+<tspan x="168" dy="16" fill="#00ff9c" fill-opacity="0.53">ﾅ</tspan>
+<tspan x="168" dy="16" fill="#00ff9c" fill-opacity="0.58">D</tspan>
+<tspan x="168" dy="16" fill="#00ff9c" fill-opacity="0.64">&gt;</tspan>
+<tspan x="168" dy="16" fill="#00ff9c" fill-opacity="0.70">0</tspan>
+<tspan x="168" dy="16" fill="#00ff9c" fill-opacity="0.76">ﾜ</tspan>
+<tspan x="168" dy="16" fill="#e8fff3" fill-opacity="1.00">4</tspan>
+</text></g>
+<g class="col" style="animation-duration:10.3s;animation-delay:-10.1s"><text x="184" y="0">
+<tspan x="184" dy="16" fill="#00ff9c" fill-opacity="0.09">ﾐ</tspan>
+<tspan x="184" dy="16" fill="#00ff9c" fill-opacity="0.11">5</tspan>
+<tspan x="184" dy="16" fill="#00ff9c" fill-opacity="0.14">ﾏ</tspan>
+<tspan x="184" dy="16" fill="#00ff9c" fill-opacity="0.17">8</tspan>
+<tspan x="184" dy="16" fill="#00ff9c" fill-opacity="0.21">ｶ</tspan>
+<tspan x="184" dy="16" fill="#00ff9c" fill-opacity="0.25">ﾚ</tspan>
+<tspan x="184" dy="16" fill="#00ff9c" fill-opacity="0.30">&lt;</tspan>
+<tspan x="184" dy="16" fill="#00ff9c" fill-opacity="0.35">4</tspan>
+<tspan x="184" dy="16" fill="#00ff9c" fill-opacity="0.41">5</tspan>
+<tspan x="184" dy="16" fill="#00ff9c" fill-opacity="0.47">ﾅ</tspan>
+<tspan x="184" dy="16" fill="#00ff9c" fill-opacity="0.54">{</tspan>
+<tspan x="184" dy="16" fill="#00ff9c" fill-opacity="0.60">ｵ</tspan>
+<tspan x="184" dy="16" fill="#00ff9c" fill-opacity="0.68">ﾁ</tspan>
+<tspan x="184" dy="16" fill="#00ff9c" fill-opacity="0.75">}</tspan>
+<tspan x="184" dy="16" fill="#e8fff3" fill-opacity="1.00">ﾜ</tspan>
+</text></g>
+<g class="col" style="animation-duration:10.5s;animation-delay:-0.2s"><text x="232" y="0">
+<tspan x="232" dy="16" fill="#00ff9c" fill-opacity="0.09">ﾃ</tspan>
+<tspan x="232" dy="16" fill="#00ff9c" fill-opacity="0.10">8</tspan>
+<tspan x="232" dy="16" fill="#00ff9c" fill-opacity="0.12">ﾅ</tspan>
+<tspan x="232" dy="16" fill="#00ff9c" fill-opacity="0.15">ｺ</tspan>
+<tspan x="232" dy="16" fill="#00ff9c" fill-opacity="0.18">&lt;</tspan>
+<tspan x="232" dy="16" fill="#00ff9c" fill-opacity="0.21">ﾓ</tspan>
+<tspan x="232" dy="16" fill="#00ff9c" fill-opacity="0.25">ﾝ</tspan>
+<tspan x="232" dy="16" fill="#00ff9c" fill-opacity="0.28">6</tspan>
+<tspan x="232" dy="16" fill="#00ff9c" fill-opacity="0.33">ｻ</tspan>
+<tspan x="232" dy="16" fill="#00ff9c" fill-opacity="0.37">ﾜ</tspan>
+<tspan x="232" dy="16" fill="#00ff9c" fill-opacity="0.42">4</tspan>
+<tspan x="232" dy="16" fill="#00ff9c" fill-opacity="0.47">ﾚ</tspan>
+<tspan x="232" dy="16" fill="#00ff9c" fill-opacity="0.53">/</tspan>
+<tspan x="232" dy="16" fill="#00ff9c" fill-opacity="0.58">ｵ</tspan>
+<tspan x="232" dy="16" fill="#00ff9c" fill-opacity="0.64">ｹ</tspan>
+<tspan x="232" dy="16" fill="#00ff9c" fill-opacity="0.70">ﾐ</tspan>
+<tspan x="232" dy="16" fill="#00ff9c" fill-opacity="0.76">ﾖ</tspan>
+<tspan x="232" dy="16" fill="#e8fff3" fill-opacity="1.00">ﾏ</tspan>
+</text></g>
+<g class="col" style="animation-duration:10.9s;animation-delay:-8.3s"><text x="248" y="0">
+<tspan x="248" dy="16" fill="#00ff9c" fill-opacity="0.09">ｽ</tspan>
+<tspan x="248" dy="16" fill="#00ff9c" fill-opacity="0.11">C</tspan>
+<tspan x="248" dy="16" fill="#00ff9c" fill-opacity="0.13">ﾇ</tspan>
+<tspan x="248" dy="16" fill="#00ff9c" fill-opacity="0.16">ﾘ</tspan>
+<tspan x="248" dy="16" fill="#00ff9c" fill-opacity="0.20">ｴ</tspan>
+<tspan x="248" dy="16" fill="#00ff9c" fill-opacity="0.24">ｶ</tspan>
+<tspan x="248" dy="16" fill="#00ff9c" fill-opacity="0.28">ﾛ</tspan>
+<tspan x="248" dy="16" fill="#00ff9c" fill-opacity="0.33">ｸ</tspan>
+<tspan x="248" dy="16" fill="#00ff9c" fill-opacity="0.38">ﾗ</tspan>
+<tspan x="248" dy="16" fill="#00ff9c" fill-opacity="0.43">1</tspan>
+<tspan x="248" dy="16" fill="#00ff9c" fill-opacity="0.49">3</tspan>
+<tspan x="248" dy="16" fill="#00ff9c" fill-opacity="0.55">B</tspan>
+<tspan x="248" dy="16" fill="#00ff9c" fill-opacity="0.62">ﾃ</tspan>
+<tspan x="248" dy="16" fill="#00ff9c" fill-opacity="0.69">ﾑ</tspan>
+<tspan x="248" dy="16" fill="#00ff9c" fill-opacity="0.76">*</tspan>
+<tspan x="248" dy="16" fill="#e8fff3" fill-opacity="1.00">8</tspan>
+</text></g>
+<g class="col" style="animation-duration:6.4s;animation-delay:-0.5s"><text x="264" y="0">
+<tspan x="264" dy="16" fill="#00ff9c" fill-opacity="0.09">4</tspan>
+<tspan x="264" dy="16" fill="#00ff9c" fill-opacity="0.12">ﾐ</tspan>
+<tspan x="264" dy="16" fill="#00ff9c" fill-opacity="0.16">{</tspan>
+<tspan x="264" dy="16" fill="#00ff9c" fill-opacity="0.21">ﾃ</tspan>
+<tspan x="264" dy="16" fill="#00ff9c" fill-opacity="0.26">ﾏ</tspan>
+<tspan x="264" dy="16" fill="#00ff9c" fill-opacity="0.33">F</tspan>
+<tspan x="264" dy="16" fill="#00ff9c" fill-opacity="0.40">ﾒ</tspan>
+<tspan x="264" dy="16" fill="#00ff9c" fill-opacity="0.47">E</tspan>
+<tspan x="264" dy="16" fill="#00ff9c" fill-opacity="0.55">ﾒ</tspan>
+<tspan x="264" dy="16" fill="#00ff9c" fill-opacity="0.64">ｲ</tspan>
+<tspan x="264" dy="16" fill="#00ff9c" fill-opacity="0.73">F</tspan>
+<tspan x="264" dy="16" fill="#e8fff3" fill-opacity="1.00">ﾖ</tspan>
+</text></g>
+<g class="col" style="animation-duration:5.9s;animation-delay:-5.6s"><text x="280" y="0">
+<tspan x="280" dy="16" fill="#00ff9c" fill-opacity="0.09">ﾘ</tspan>
+<tspan x="280" dy="16" fill="#00ff9c" fill-opacity="0.12">A</tspan>
+<tspan x="280" dy="16" fill="#00ff9c" fill-opacity="0.16">ﾒ</tspan>
+<tspan x="280" dy="16" fill="#00ff9c" fill-opacity="0.21">E</tspan>
+<tspan x="280" dy="16" fill="#00ff9c" fill-opacity="0.26">ﾘ</tspan>
+<tspan x="280" dy="16" fill="#00ff9c" fill-opacity="0.33">ﾋ</tspan>
+<tspan x="280" dy="16" fill="#00ff9c" fill-opacity="0.40">5</tspan>
+<tspan x="280" dy="16" fill="#00ff9c" fill-opacity="0.47">&gt;</tspan>
+<tspan x="280" dy="16" fill="#00ff9c" fill-opacity="0.55">ｾ</tspan>
+<tspan x="280" dy="16" fill="#00ff9c" fill-opacity="0.64">ﾐ</tspan>
+<tspan x="280" dy="16" fill="#00ff9c" fill-opacity="0.73">4</tspan>
+<tspan x="280" dy="16" fill="#e8fff3" fill-opacity="1.00">1</tspan>
+</text></g>
+<g class="col" style="animation-duration:5.6s;animation-delay:-4.7s"><text x="296" y="0">
+<tspan x="296" dy="16" fill="#00ff9c" fill-opacity="0.09">6</tspan>
+<tspan x="296" dy="16" fill="#00ff9c" fill-opacity="0.11">ﾕ</tspan>
+<tspan x="296" dy="16" fill="#00ff9c" fill-opacity="0.14">ｲ</tspan>
+<tspan x="296" dy="16" fill="#00ff9c" fill-opacity="0.18">ｷ</tspan>
+<tspan x="296" dy="16" fill="#00ff9c" fill-opacity="0.22">{</tspan>
+<tspan x="296" dy="16" fill="#00ff9c" fill-opacity="0.27">ﾖ</tspan>
+<tspan x="296" dy="16" fill="#00ff9c" fill-opacity="0.33">ﾏ</tspan>
+<tspan x="296" dy="16" fill="#00ff9c" fill-opacity="0.39">1</tspan>
+<tspan x="296" dy="16" fill="#00ff9c" fill-opacity="0.45">ﾎ</tspan>
+<tspan x="296" dy="16" fill="#00ff9c" fill-opacity="0.52">ﾊ</tspan>
+<tspan x="296" dy="16" fill="#00ff9c" fill-opacity="0.59">ﾒ</tspan>
+<tspan x="296" dy="16" fill="#00ff9c" fill-opacity="0.67">ﾂ</tspan>
+<tspan x="296" dy="16" fill="#00ff9c" fill-opacity="0.75">ｽ</tspan>
+<tspan x="296" dy="16" fill="#e8fff3" fill-opacity="1.00">ｶ</tspan>
+</text></g>
+<g class="col" style="animation-duration:5.7s;animation-delay:-2.1s"><text x="312" y="0">
+<tspan x="312" dy="16" fill="#00ff9c" fill-opacity="0.09">ﾁ</tspan>
+<tspan x="312" dy="16" fill="#00ff9c" fill-opacity="0.10">ｼ</tspan>
+<tspan x="312" dy="16" fill="#00ff9c" fill-opacity="0.13">ﾗ</tspan>
+<tspan x="312" dy="16" fill="#00ff9c" fill-opacity="0.15">ﾛ</tspan>
+<tspan x="312" dy="16" fill="#00ff9c" fill-opacity="0.19">9</tspan>
+<tspan x="312" dy="16" fill="#00ff9c" fill-opacity="0.22">ﾈ</tspan>
+<tspan x="312" dy="16" fill="#00ff9c" fill-opacity="0.26">ﾋ</tspan>
+<tspan x="312" dy="16" fill="#00ff9c" fill-opacity="0.30">ﾁ</tspan>
+<tspan x="312" dy="16" fill="#00ff9c" fill-opacity="0.35">2</tspan>
+<tspan x="312" dy="16" fill="#00ff9c" fill-opacity="0.40">*</tspan>
+<tspan x="312" dy="16" fill="#00ff9c" fill-opacity="0.45">}</tspan>
+<tspan x="312" dy="16" fill="#00ff9c" fill-opacity="0.51">ﾔ</tspan>
+<tspan x="312" dy="16" fill="#00ff9c" fill-opacity="0.57">ﾇ</tspan>
+<tspan x="312" dy="16" fill="#00ff9c" fill-opacity="0.63">ﾒ</tspan>
+<tspan x="312" dy="16" fill="#00ff9c" fill-opacity="0.69">&gt;</tspan>
+<tspan x="312" dy="16" fill="#00ff9c" fill-opacity="0.76">ﾗ</tspan>
+<tspan x="312" dy="16" fill="#e8fff3" fill-opacity="1.00">ﾝ</tspan>
+</text></g>
+<g class="col" style="animation-duration:10.8s;animation-delay:-1.5s"><text x="328" y="0">
+<tspan x="328" dy="16" fill="#00ff9c" fill-opacity="0.09">ﾎ</tspan>
+<tspan x="328" dy="16" fill="#00ff9c" fill-opacity="0.10">6</tspan>
+<tspan x="328" dy="16" fill="#00ff9c" fill-opacity="0.13">2</tspan>
+<tspan x="328" dy="16" fill="#00ff9c" fill-opacity="0.15">ｼ</tspan>
+<tspan x="328" dy="16" fill="#00ff9c" fill-opacity="0.19">6</tspan>
+<tspan x="328" dy="16" fill="#00ff9c" fill-opacity="0.22">ｲ</tspan>
+<tspan x="328" dy="16" fill="#00ff9c" fill-opacity="0.26">ﾓ</tspan>
+<tspan x="328" dy="16" fill="#00ff9c" fill-opacity="0.30">ﾀ</tspan>
+<tspan x="328" dy="16" fill="#00ff9c" fill-opacity="0.35">E</tspan>
+<tspan x="328" dy="16" fill="#00ff9c" fill-opacity="0.40">3</tspan>
+<tspan x="328" dy="16" fill="#00ff9c" fill-opacity="0.45">ﾓ</tspan>
+<tspan x="328" dy="16" fill="#00ff9c" fill-opacity="0.51">4</tspan>
+<tspan x="328" dy="16" fill="#00ff9c" fill-opacity="0.57">3</tspan>
+<tspan x="328" dy="16" fill="#00ff9c" fill-opacity="0.63">ｾ</tspan>
+<tspan x="328" dy="16" fill="#00ff9c" fill-opacity="0.69">ﾏ</tspan>
+<tspan x="328" dy="16" fill="#00ff9c" fill-opacity="0.76">&lt;</tspan>
+<tspan x="328" dy="16" fill="#e8fff3" fill-opacity="1.00">ｴ</tspan>
+</text></g>
+<g class="col" style="animation-duration:7.3s;animation-delay:-4.5s"><text x="344" y="0">
+<tspan x="344" dy="16" fill="#00ff9c" fill-opacity="0.09">ｹ</tspan>
+<tspan x="344" dy="16" fill="#00ff9c" fill-opacity="0.10">F</tspan>
+<tspan x="344" dy="16" fill="#00ff9c" fill-opacity="0.12">ﾘ</tspan>
+<tspan x="344" dy="16" fill="#00ff9c" fill-opacity="0.15">8</tspan>
+<tspan x="344" dy="16" fill="#00ff9c" fill-opacity="0.18">ｿ</tspan>
+<tspan x="344" dy="16" fill="#00ff9c" fill-opacity="0.21">ﾂ</tspan>
+<tspan x="344" dy="16" fill="#00ff9c" fill-opacity="0.25">ｶ</tspan>
+<tspan x="344" dy="16" fill="#00ff9c" fill-opacity="0.28">ｵ</tspan>
+<tspan x="344" dy="16" fill="#00ff9c" fill-opacity="0.33">ﾘ</tspan>
+<tspan x="344" dy="16" fill="#00ff9c" fill-opacity="0.37">{</tspan>
+<tspan x="344" dy="16" fill="#00ff9c" fill-opacity="0.42">ｿ</tspan>
+<tspan x="344" dy="16" fill="#00ff9c" fill-opacity="0.47">ｽ</tspan>
+<tspan x="344" dy="16" fill="#00ff9c" fill-opacity="0.53">ﾐ</tspan>
+<tspan x="344" dy="16" fill="#00ff9c" fill-opacity="0.58">ﾂ</tspan>
+<tspan x="344" dy="16" fill="#00ff9c" fill-opacity="0.64">5</tspan>
+<tspan x="344" dy="16" fill="#00ff9c" fill-opacity="0.70">E</tspan>
+<tspan x="344" dy="16" fill="#00ff9c" fill-opacity="0.76">3</tspan>
+<tspan x="344" dy="16" fill="#e8fff3" fill-opacity="1.00">9</tspan>
+</text></g>
+<g class="col" style="animation-duration:10.4s;animation-delay:-6.8s"><text x="360" y="0">
+<tspan x="360" dy="16" fill="#00ff9c" fill-opacity="0.09">/</tspan>
+<tspan x="360" dy="16" fill="#00ff9c" fill-opacity="0.12">8</tspan>
+<tspan x="360" dy="16" fill="#00ff9c" fill-opacity="0.16">ﾕ</tspan>
+<tspan x="360" dy="16" fill="#00ff9c" fill-opacity="0.21">ｵ</tspan>
+<tspan x="360" dy="16" fill="#00ff9c" fill-opacity="0.26">3</tspan>
+<tspan x="360" dy="16" fill="#00ff9c" fill-opacity="0.33">ﾍ</tspan>
+<tspan x="360" dy="16" fill="#00ff9c" fill-opacity="0.40">C</tspan>
+<tspan x="360" dy="16" fill="#00ff9c" fill-opacity="0.47">C</tspan>
+<tspan x="360" dy="16" fill="#00ff9c" fill-opacity="0.55">ﾐ</tspan>
+<tspan x="360" dy="16" fill="#00ff9c" fill-opacity="0.64">2</tspan>
+<tspan x="360" dy="16" fill="#00ff9c" fill-opacity="0.73">ｽ</tspan>
+<tspan x="360" dy="16" fill="#e8fff3" fill-opacity="1.00">3</tspan>
+</text></g>
+<g class="col" style="animation-duration:5.8s;animation-delay:-1.6s"><text x="376" y="0">
+<tspan x="376" dy="16" fill="#00ff9c" fill-opacity="0.09">ﾀ</tspan>
+<tspan x="376" dy="16" fill="#00ff9c" fill-opacity="0.11">E</tspan>
+<tspan x="376" dy="16" fill="#00ff9c" fill-opacity="0.14">ｼ</tspan>
+<tspan x="376" dy="16" fill="#00ff9c" fill-opacity="0.17">ﾍ</tspan>
+<tspan x="376" dy="16" fill="#00ff9c" fill-opacity="0.21">ｳ</tspan>
+<tspan x="376" dy="16" fill="#00ff9c" fill-opacity="0.25">ｷ</tspan>
+<tspan x="376" dy="16" fill="#00ff9c" fill-opacity="0.30">ﾜ</tspan>
+<tspan x="376" dy="16" fill="#00ff9c" fill-opacity="0.35">ﾑ</tspan>
+<tspan x="376" dy="16" fill="#00ff9c" fill-opacity="0.41">ﾁ</tspan>
+<tspan x="376" dy="16" fill="#00ff9c" fill-opacity="0.47">ﾌ</tspan>
+<tspan x="376" dy="16" fill="#00ff9c" fill-opacity="0.54">ｹ</tspan>
+<tspan x="376" dy="16" fill="#00ff9c" fill-opacity="0.60">ﾌ</tspan>
+<tspan x="376" dy="16" fill="#00ff9c" fill-opacity="0.68">ﾍ</tspan>
+<tspan x="376" dy="16" fill="#00ff9c" fill-opacity="0.75">ﾏ</tspan>
+<tspan x="376" dy="16" fill="#e8fff3" fill-opacity="1.00">ﾜ</tspan>
+</text></g>
+<g class="col" style="animation-duration:5.5s;animation-delay:-4.7s"><text x="392" y="0">
+<tspan x="392" dy="16" fill="#00ff9c" fill-opacity="0.09">ﾃ</tspan>
+<tspan x="392" dy="16" fill="#00ff9c" fill-opacity="0.10">ﾁ</tspan>
+<tspan x="392" dy="16" fill="#00ff9c" fill-opacity="0.12">ﾒ</tspan>
+<tspan x="392" dy="16" fill="#00ff9c" fill-opacity="0.14">ﾈ</tspan>
+<tspan x="392" dy="16" fill="#00ff9c" fill-opacity="0.17">ｿ</tspan>
+<tspan x="392" dy="16" fill="#00ff9c" fill-opacity="0.20">ｴ</tspan>
+<tspan x="392" dy="16" fill="#00ff9c" fill-opacity="0.23">ﾁ</tspan>
+<tspan x="392" dy="16" fill="#00ff9c" fill-opacity="0.27">ｲ</tspan>
+<tspan x="392" dy="16" fill="#00ff9c" fill-opacity="0.31">1</tspan>
+<tspan x="392" dy="16" fill="#00ff9c" fill-opacity="0.35">ﾐ</tspan>
+<tspan x="392" dy="16" fill="#00ff9c" fill-opacity="0.39">ﾛ</tspan>
+<tspan x="392" dy="16" fill="#00ff9c" fill-opacity="0.44">ｳ</tspan>
+<tspan x="392" dy="16" fill="#00ff9c" fill-opacity="0.49">ﾈ</tspan>
+<tspan x="392" dy="16" fill="#00ff9c" fill-opacity="0.54">ﾓ</tspan>
+<tspan x="392" dy="16" fill="#00ff9c" fill-opacity="0.59">ｷ</tspan>
+<tspan x="392" dy="16" fill="#00ff9c" fill-opacity="0.65">ﾁ</tspan>
+<tspan x="392" dy="16" fill="#00ff9c" fill-opacity="0.71">9</tspan>
+<tspan x="392" dy="16" fill="#00ff9c" fill-opacity="0.77">*</tspan>
+<tspan x="392" dy="16" fill="#e8fff3" fill-opacity="1.00">ｿ</tspan>
+</text></g>
+<g class="col" style="animation-duration:8.0s;animation-delay:-2.9s"><text x="408" y="0">
+<tspan x="408" dy="16" fill="#00ff9c" fill-opacity="0.09">ｾ</tspan>
+<tspan x="408" dy="16" fill="#00ff9c" fill-opacity="0.10">D</tspan>
+<tspan x="408" dy="16" fill="#00ff9c" fill-opacity="0.13">}</tspan>
+<tspan x="408" dy="16" fill="#00ff9c" fill-opacity="0.15">ﾎ</tspan>
+<tspan x="408" dy="16" fill="#00ff9c" fill-opacity="0.19">ｶ</tspan>
+<tspan x="408" dy="16" fill="#00ff9c" fill-opacity="0.22">+</tspan>
+<tspan x="408" dy="16" fill="#00ff9c" fill-opacity="0.26">ﾘ</tspan>
+<tspan x="408" dy="16" fill="#00ff9c" fill-opacity="0.30">E</tspan>
+<tspan x="408" dy="16" fill="#00ff9c" fill-opacity="0.35">ｴ</tspan>
+<tspan x="408" dy="16" fill="#00ff9c" fill-opacity="0.40">ｸ</tspan>
+<tspan x="408" dy="16" fill="#00ff9c" fill-opacity="0.45">&gt;</tspan>
+<tspan x="408" dy="16" fill="#00ff9c" fill-opacity="0.51">7</tspan>
+<tspan x="408" dy="16" fill="#00ff9c" fill-opacity="0.57">A</tspan>
+<tspan x="408" dy="16" fill="#00ff9c" fill-opacity="0.63">ｾ</tspan>
+<tspan x="408" dy="16" fill="#00ff9c" fill-opacity="0.69">/</tspan>
+<tspan x="408" dy="16" fill="#00ff9c" fill-opacity="0.76">C</tspan>
+<tspan x="408" dy="16" fill="#e8fff3" fill-opacity="1.00">ｺ</tspan>
+</text></g>
+<g class="col" style="animation-duration:5.9s;animation-delay:-1.6s"><text x="440" y="0">
+<tspan x="440" dy="16" fill="#00ff9c" fill-opacity="0.09">ﾛ</tspan>
+<tspan x="440" dy="16" fill="#00ff9c" fill-opacity="0.12">4</tspan>
+<tspan x="440" dy="16" fill="#00ff9c" fill-opacity="0.16">*</tspan>
+<tspan x="440" dy="16" fill="#00ff9c" fill-opacity="0.21">ﾗ</tspan>
+<tspan x="440" dy="16" fill="#00ff9c" fill-opacity="0.26">E</tspan>
+<tspan x="440" dy="16" fill="#00ff9c" fill-opacity="0.33">}</tspan>
+<tspan x="440" dy="16" fill="#00ff9c" fill-opacity="0.40">B</tspan>
+<tspan x="440" dy="16" fill="#00ff9c" fill-opacity="0.47">ｽ</tspan>
+<tspan x="440" dy="16" fill="#00ff9c" fill-opacity="0.55">ｿ</tspan>
+<tspan x="440" dy="16" fill="#00ff9c" fill-opacity="0.64">ﾍ</tspan>
+<tspan x="440" dy="16" fill="#00ff9c" fill-opacity="0.73">B</tspan>
+<tspan x="440" dy="16" fill="#e8fff3" fill-opacity="1.00">D</tspan>
+</text></g>
+<g class="col" style="animation-duration:7.7s;animation-delay:-5.6s"><text x="472" y="0">
+<tspan x="472" dy="16" fill="#00ff9c" fill-opacity="0.09">ﾚ</tspan>
+<tspan x="472" dy="16" fill="#00ff9c" fill-opacity="0.10">A</tspan>
+<tspan x="472" dy="16" fill="#00ff9c" fill-opacity="0.13">ﾚ</tspan>
+<tspan x="472" dy="16" fill="#00ff9c" fill-opacity="0.15">ﾒ</tspan>
+<tspan x="472" dy="16" fill="#00ff9c" fill-opacity="0.19">3</tspan>
+<tspan x="472" dy="16" fill="#00ff9c" fill-opacity="0.22">ﾅ</tspan>
+<tspan x="472" dy="16" fill="#00ff9c" fill-opacity="0.26">&lt;</tspan>
+<tspan x="472" dy="16" fill="#00ff9c" fill-opacity="0.30">ｹ</tspan>
+<tspan x="472" dy="16" fill="#00ff9c" fill-opacity="0.35">ｼ</tspan>
+<tspan x="472" dy="16" fill="#00ff9c" fill-opacity="0.40">ｻ</tspan>
+<tspan x="472" dy="16" fill="#00ff9c" fill-opacity="0.45">ｼ</tspan>
+<tspan x="472" dy="16" fill="#00ff9c" fill-opacity="0.51">B</tspan>
+<tspan x="472" dy="16" fill="#00ff9c" fill-opacity="0.57">ｽ</tspan>
+<tspan x="472" dy="16" fill="#00ff9c" fill-opacity="0.63">3</tspan>
+<tspan x="472" dy="16" fill="#00ff9c" fill-opacity="0.69">ﾁ</tspan>
+<tspan x="472" dy="16" fill="#00ff9c" fill-opacity="0.76">ｸ</tspan>
+<tspan x="472" dy="16" fill="#e8fff3" fill-opacity="1.00">ﾜ</tspan>
+</text></g>
+<g class="col" style="animation-duration:7.4s;animation-delay:-5.0s"><text x="488" y="0">
+<tspan x="488" dy="16" fill="#00ff9c" fill-opacity="0.09">A</tspan>
+<tspan x="488" dy="16" fill="#00ff9c" fill-opacity="0.11">ｷ</tspan>
+<tspan x="488" dy="16" fill="#00ff9c" fill-opacity="0.13">ﾖ</tspan>
+<tspan x="488" dy="16" fill="#00ff9c" fill-opacity="0.16">ﾙ</tspan>
+<tspan x="488" dy="16" fill="#00ff9c" fill-opacity="0.20">1</tspan>
+<tspan x="488" dy="16" fill="#00ff9c" fill-opacity="0.24">ｾ</tspan>
+<tspan x="488" dy="16" fill="#00ff9c" fill-opacity="0.28">}</tspan>
+<tspan x="488" dy="16" fill="#00ff9c" fill-opacity="0.33">ﾍ</tspan>
+<tspan x="488" dy="16" fill="#00ff9c" fill-opacity="0.38">ﾅ</tspan>
+<tspan x="488" dy="16" fill="#00ff9c" fill-opacity="0.43">&gt;</tspan>
+<tspan x="488" dy="16" fill="#00ff9c" fill-opacity="0.49">ﾎ</tspan>
+<tspan x="488" dy="16" fill="#00ff9c" fill-opacity="0.55">ｾ</tspan>
+<tspan x="488" dy="16" fill="#00ff9c" fill-opacity="0.62">0</tspan>
+<tspan x="488" dy="16" fill="#00ff9c" fill-opacity="0.69">3</tspan>
+<tspan x="488" dy="16" fill="#00ff9c" fill-opacity="0.76">ｿ</tspan>
+<tspan x="488" dy="16" fill="#e8fff3" fill-opacity="1.00">ﾕ</tspan>
+</text></g>
+<g class="col" style="animation-duration:10.1s;animation-delay:-9.9s"><text x="504" y="0">
+<tspan x="504" dy="16" fill="#00ff9c" fill-opacity="0.09">ｴ</tspan>
+<tspan x="504" dy="16" fill="#00ff9c" fill-opacity="0.11">ﾔ</tspan>
+<tspan x="504" dy="16" fill="#00ff9c" fill-opacity="0.13">ｴ</tspan>
+<tspan x="504" dy="16" fill="#00ff9c" fill-opacity="0.16">ﾉ</tspan>
+<tspan x="504" dy="16" fill="#00ff9c" fill-opacity="0.20">ﾔ</tspan>
+<tspan x="504" dy="16" fill="#00ff9c" fill-opacity="0.24">ﾙ</tspan>
+<tspan x="504" dy="16" fill="#00ff9c" fill-opacity="0.28">ﾝ</tspan>
+<tspan x="504" dy="16" fill="#00ff9c" fill-opacity="0.33">0</tspan>
+<tspan x="504" dy="16" fill="#00ff9c" fill-opacity="0.38">ｱ</tspan>
+<tspan x="504" dy="16" fill="#00ff9c" fill-opacity="0.43">ﾉ</tspan>
+<tspan x="504" dy="16" fill="#00ff9c" fill-opacity="0.49">ﾃ</tspan>
+<tspan x="504" dy="16" fill="#00ff9c" fill-opacity="0.55">7</tspan>
+<tspan x="504" dy="16" fill="#00ff9c" fill-opacity="0.62">ｹ</tspan>
+<tspan x="504" dy="16" fill="#00ff9c" fill-opacity="0.69">ﾃ</tspan>
+<tspan x="504" dy="16" fill="#00ff9c" fill-opacity="0.76">ｴ</tspan>
+<tspan x="504" dy="16" fill="#e8fff3" fill-opacity="1.00">ｼ</tspan>
+</text></g>
+<g class="col" style="animation-duration:7.6s;animation-delay:-3.4s"><text x="520" y="0">
+<tspan x="520" dy="16" fill="#00ff9c" fill-opacity="0.09">ﾆ</tspan>
+<tspan x="520" dy="16" fill="#00ff9c" fill-opacity="0.12">3</tspan>
+<tspan x="520" dy="16" fill="#00ff9c" fill-opacity="0.15">ﾙ</tspan>
+<tspan x="520" dy="16" fill="#00ff9c" fill-opacity="0.19">ﾛ</tspan>
+<tspan x="520" dy="16" fill="#00ff9c" fill-opacity="0.24">ｻ</tspan>
+<tspan x="520" dy="16" fill="#00ff9c" fill-opacity="0.30">ｷ</tspan>
+<tspan x="520" dy="16" fill="#00ff9c" fill-opacity="0.36">ﾅ</tspan>
+<tspan x="520" dy="16" fill="#00ff9c" fill-opacity="0.42">ﾆ</tspan>
+<tspan x="520" dy="16" fill="#00ff9c" fill-opacity="0.50">ｷ</tspan>
+<tspan x="520" dy="16" fill="#00ff9c" fill-opacity="0.57">ｻ</tspan>
+<tspan x="520" dy="16" fill="#00ff9c" fill-opacity="0.65">ﾔ</tspan>
+<tspan x="520" dy="16" fill="#00ff9c" fill-opacity="0.74">C</tspan>
+<tspan x="520" dy="16" fill="#e8fff3" fill-opacity="1.00">A</tspan>
+</text></g>
+<g class="col" style="animation-duration:7.8s;animation-delay:-1.7s"><text x="536" y="0">
+<tspan x="536" dy="16" fill="#00ff9c" fill-opacity="0.09">=</tspan>
+<tspan x="536" dy="16" fill="#00ff9c" fill-opacity="0.10">ｿ</tspan>
+<tspan x="536" dy="16" fill="#00ff9c" fill-opacity="0.13">0</tspan>
+<tspan x="536" dy="16" fill="#00ff9c" fill-opacity="0.15">B</tspan>
+<tspan x="536" dy="16" fill="#00ff9c" fill-opacity="0.19">ｿ</tspan>
+<tspan x="536" dy="16" fill="#00ff9c" fill-opacity="0.22">ﾖ</tspan>
+<tspan x="536" dy="16" fill="#00ff9c" fill-opacity="0.26">/</tspan>
+<tspan x="536" dy="16" fill="#00ff9c" fill-opacity="0.30">*</tspan>
+<tspan x="536" dy="16" fill="#00ff9c" fill-opacity="0.35">ﾙ</tspan>
+<tspan x="536" dy="16" fill="#00ff9c" fill-opacity="0.40">ｶ</tspan>
+<tspan x="536" dy="16" fill="#00ff9c" fill-opacity="0.45">ﾎ</tspan>
+<tspan x="536" dy="16" fill="#00ff9c" fill-opacity="0.51">6</tspan>
+<tspan x="536" dy="16" fill="#00ff9c" fill-opacity="0.57">ｸ</tspan>
+<tspan x="536" dy="16" fill="#00ff9c" fill-opacity="0.63">ｱ</tspan>
+<tspan x="536" dy="16" fill="#00ff9c" fill-opacity="0.69">ﾌ</tspan>
+<tspan x="536" dy="16" fill="#00ff9c" fill-opacity="0.76">ﾘ</tspan>
+<tspan x="536" dy="16" fill="#e8fff3" fill-opacity="1.00">ﾍ</tspan>
+</text></g>
+<g class="col" style="animation-duration:7.1s;animation-delay:-0.9s"><text x="552" y="0">
+<tspan x="552" dy="16" fill="#00ff9c" fill-opacity="0.09">{</tspan>
+<tspan x="552" dy="16" fill="#00ff9c" fill-opacity="0.11">B</tspan>
+<tspan x="552" dy="16" fill="#00ff9c" fill-opacity="0.14">ﾈ</tspan>
+<tspan x="552" dy="16" fill="#00ff9c" fill-opacity="0.18">ﾁ</tspan>
+<tspan x="552" dy="16" fill="#00ff9c" fill-opacity="0.22">4</tspan>
+<tspan x="552" dy="16" fill="#00ff9c" fill-opacity="0.27">ﾏ</tspan>
+<tspan x="552" dy="16" fill="#00ff9c" fill-opacity="0.33">}</tspan>
+<tspan x="552" dy="16" fill="#00ff9c" fill-opacity="0.39">1</tspan>
+<tspan x="552" dy="16" fill="#00ff9c" fill-opacity="0.45">ｺ</tspan>
+<tspan x="552" dy="16" fill="#00ff9c" fill-opacity="0.52">6</tspan>
+<tspan x="552" dy="16" fill="#00ff9c" fill-opacity="0.59">ｶ</tspan>
+<tspan x="552" dy="16" fill="#00ff9c" fill-opacity="0.67">B</tspan>
+<tspan x="552" dy="16" fill="#00ff9c" fill-opacity="0.75">ｳ</tspan>
+<tspan x="552" dy="16" fill="#e8fff3" fill-opacity="1.00">E</tspan>
+</text></g>
+<g class="col" style="animation-duration:7.7s;animation-delay:-4.9s"><text x="600" y="0">
+<tspan x="600" dy="16" fill="#00ff9c" fill-opacity="0.09">ﾗ</tspan>
+<tspan x="600" dy="16" fill="#00ff9c" fill-opacity="0.10">ｿ</tspan>
+<tspan x="600" dy="16" fill="#00ff9c" fill-opacity="0.12">7</tspan>
+<tspan x="600" dy="16" fill="#00ff9c" fill-opacity="0.14">ｳ</tspan>
+<tspan x="600" dy="16" fill="#00ff9c" fill-opacity="0.17">ﾛ</tspan>
+<tspan x="600" dy="16" fill="#00ff9c" fill-opacity="0.20">ﾇ</tspan>
+<tspan x="600" dy="16" fill="#00ff9c" fill-opacity="0.23">E</tspan>
+<tspan x="600" dy="16" fill="#00ff9c" fill-opacity="0.27">2</tspan>
+<tspan x="600" dy="16" fill="#00ff9c" fill-opacity="0.31">ｼ</tspan>
+<tspan x="600" dy="16" fill="#00ff9c" fill-opacity="0.35">B</tspan>
+<tspan x="600" dy="16" fill="#00ff9c" fill-opacity="0.39">ｾ</tspan>
+<tspan x="600" dy="16" fill="#00ff9c" fill-opacity="0.44">ﾑ</tspan>
+<tspan x="600" dy="16" fill="#00ff9c" fill-opacity="0.49">B</tspan>
+<tspan x="600" dy="16" fill="#00ff9c" fill-opacity="0.54">7</tspan>
+<tspan x="600" dy="16" fill="#00ff9c" fill-opacity="0.59">*</tspan>
+<tspan x="600" dy="16" fill="#00ff9c" fill-opacity="0.65">ｻ</tspan>
+<tspan x="600" dy="16" fill="#00ff9c" fill-opacity="0.71">6</tspan>
+<tspan x="600" dy="16" fill="#00ff9c" fill-opacity="0.77">ﾙ</tspan>
+<tspan x="600" dy="16" fill="#e8fff3" fill-opacity="1.00">ﾝ</tspan>
+</text></g>
+<g class="col" style="animation-duration:5.9s;animation-delay:-3.7s"><text x="616" y="0">
+<tspan x="616" dy="16" fill="#00ff9c" fill-opacity="0.09">*</tspan>
+<tspan x="616" dy="16" fill="#00ff9c" fill-opacity="0.12">=</tspan>
+<tspan x="616" dy="16" fill="#00ff9c" fill-opacity="0.16">ﾊ</tspan>
+<tspan x="616" dy="16" fill="#00ff9c" fill-opacity="0.21">0</tspan>
+<tspan x="616" dy="16" fill="#00ff9c" fill-opacity="0.26">0</tspan>
+<tspan x="616" dy="16" fill="#00ff9c" fill-opacity="0.33">ﾃ</tspan>
+<tspan x="616" dy="16" fill="#00ff9c" fill-opacity="0.40">ﾐ</tspan>
+<tspan x="616" dy="16" fill="#00ff9c" fill-opacity="0.47">ｾ</tspan>
+<tspan x="616" dy="16" fill="#00ff9c" fill-opacity="0.55">ﾃ</tspan>
+<tspan x="616" dy="16" fill="#00ff9c" fill-opacity="0.64">ﾒ</tspan>
+<tspan x="616" dy="16" fill="#00ff9c" fill-opacity="0.73">ﾋ</tspan>
+<tspan x="616" dy="16" fill="#e8fff3" fill-opacity="1.00">ﾈ</tspan>
+</text></g>
+<g class="col" style="animation-duration:6.5s;animation-delay:-5.0s"><text x="632" y="0">
+<tspan x="632" dy="16" fill="#00ff9c" fill-opacity="0.10">{</tspan>
+<tspan x="632" dy="16" fill="#00ff9c" fill-opacity="0.13">F</tspan>
+<tspan x="632" dy="16" fill="#00ff9c" fill-opacity="0.17">D</tspan>
+<tspan x="632" dy="16" fill="#00ff9c" fill-opacity="0.23">ﾛ</tspan>
+<tspan x="632" dy="16" fill="#00ff9c" fill-opacity="0.29">ﾚ</tspan>
+<tspan x="632" dy="16" fill="#00ff9c" fill-opacity="0.36">ﾅ</tspan>
+<tspan x="632" dy="16" fill="#00ff9c" fill-opacity="0.44">C</tspan>
+<tspan x="632" dy="16" fill="#00ff9c" fill-opacity="0.53">ｹ</tspan>
+<tspan x="632" dy="16" fill="#00ff9c" fill-opacity="0.62">&lt;</tspan>
+<tspan x="632" dy="16" fill="#00ff9c" fill-opacity="0.72">C</tspan>
+<tspan x="632" dy="16" fill="#e8fff3" fill-opacity="1.00">ﾘ</tspan>
+</text></g>
+<g class="col" style="animation-duration:5.8s;animation-delay:-2.9s"><text x="648" y="0">
+<tspan x="648" dy="16" fill="#00ff9c" fill-opacity="0.09">ﾙ</tspan>
+<tspan x="648" dy="16" fill="#00ff9c" fill-opacity="0.10">F</tspan>
+<tspan x="648" dy="16" fill="#00ff9c" fill-opacity="0.12">D</tspan>
+<tspan x="648" dy="16" fill="#00ff9c" fill-opacity="0.14">ｵ</tspan>
+<tspan x="648" dy="16" fill="#00ff9c" fill-opacity="0.17">ｸ</tspan>
+<tspan x="648" dy="16" fill="#00ff9c" fill-opacity="0.20">3</tspan>
+<tspan x="648" dy="16" fill="#00ff9c" fill-opacity="0.23">ﾖ</tspan>
+<tspan x="648" dy="16" fill="#00ff9c" fill-opacity="0.27">ｺ</tspan>
+<tspan x="648" dy="16" fill="#00ff9c" fill-opacity="0.31">ｼ</tspan>
+<tspan x="648" dy="16" fill="#00ff9c" fill-opacity="0.35">}</tspan>
+<tspan x="648" dy="16" fill="#00ff9c" fill-opacity="0.39">5</tspan>
+<tspan x="648" dy="16" fill="#00ff9c" fill-opacity="0.44">F</tspan>
+<tspan x="648" dy="16" fill="#00ff9c" fill-opacity="0.49">ｶ</tspan>
+<tspan x="648" dy="16" fill="#00ff9c" fill-opacity="0.54">D</tspan>
+<tspan x="648" dy="16" fill="#00ff9c" fill-opacity="0.59">ﾊ</tspan>
+<tspan x="648" dy="16" fill="#00ff9c" fill-opacity="0.65">ﾛ</tspan>
+<tspan x="648" dy="16" fill="#00ff9c" fill-opacity="0.71">&lt;</tspan>
+<tspan x="648" dy="16" fill="#00ff9c" fill-opacity="0.77">}</tspan>
+<tspan x="648" dy="16" fill="#e8fff3" fill-opacity="1.00">ﾅ</tspan>
+</text></g>
+<g class="col" style="animation-duration:10.9s;animation-delay:-0.9s"><text x="680" y="0">
+<tspan x="680" dy="16" fill="#00ff9c" fill-opacity="0.09">ﾈ</tspan>
+<tspan x="680" dy="16" fill="#00ff9c" fill-opacity="0.11">ｶ</tspan>
+<tspan x="680" dy="16" fill="#00ff9c" fill-opacity="0.14">ﾑ</tspan>
+<tspan x="680" dy="16" fill="#00ff9c" fill-opacity="0.17">C</tspan>
+<tspan x="680" dy="16" fill="#00ff9c" fill-opacity="0.21">C</tspan>
+<tspan x="680" dy="16" fill="#00ff9c" fill-opacity="0.25">*</tspan>
+<tspan x="680" dy="16" fill="#00ff9c" fill-opacity="0.30">+</tspan>
+<tspan x="680" dy="16" fill="#00ff9c" fill-opacity="0.35">ﾆ</tspan>
+<tspan x="680" dy="16" fill="#00ff9c" fill-opacity="0.41">2</tspan>
+<tspan x="680" dy="16" fill="#00ff9c" fill-opacity="0.47">3</tspan>
+<tspan x="680" dy="16" fill="#00ff9c" fill-opacity="0.54">ﾖ</tspan>
+<tspan x="680" dy="16" fill="#00ff9c" fill-opacity="0.60">5</tspan>
+<tspan x="680" dy="16" fill="#00ff9c" fill-opacity="0.68">8</tspan>
+<tspan x="680" dy="16" fill="#00ff9c" fill-opacity="0.75">ﾝ</tspan>
+<tspan x="680" dy="16" fill="#e8fff3" fill-opacity="1.00">ｷ</tspan>
+</text></g>
+<g class="col" style="animation-duration:5.9s;animation-delay:-0.6s"><text x="696" y="0">
+<tspan x="696" dy="16" fill="#00ff9c" fill-opacity="0.09">5</tspan>
+<tspan x="696" dy="16" fill="#00ff9c" fill-opacity="0.11">ﾖ</tspan>
+<tspan x="696" dy="16" fill="#00ff9c" fill-opacity="0.14">ﾒ</tspan>
+<tspan x="696" dy="16" fill="#00ff9c" fill-opacity="0.17">ﾅ</tspan>
+<tspan x="696" dy="16" fill="#00ff9c" fill-opacity="0.21">ﾜ</tspan>
+<tspan x="696" dy="16" fill="#00ff9c" fill-opacity="0.25">ｻ</tspan>
+<tspan x="696" dy="16" fill="#00ff9c" fill-opacity="0.30">ﾃ</tspan>
+<tspan x="696" dy="16" fill="#00ff9c" fill-opacity="0.35">0</tspan>
+<tspan x="696" dy="16" fill="#00ff9c" fill-opacity="0.41">ﾙ</tspan>
+<tspan x="696" dy="16" fill="#00ff9c" fill-opacity="0.47">6</tspan>
+<tspan x="696" dy="16" fill="#00ff9c" fill-opacity="0.54">ﾁ</tspan>
+<tspan x="696" dy="16" fill="#00ff9c" fill-opacity="0.60">ｻ</tspan>
+<tspan x="696" dy="16" fill="#00ff9c" fill-opacity="0.68">ﾙ</tspan>
+<tspan x="696" dy="16" fill="#00ff9c" fill-opacity="0.75">4</tspan>
+<tspan x="696" dy="16" fill="#e8fff3" fill-opacity="1.00">ﾜ</tspan>
+</text></g>
+<g class="col" style="animation-duration:6.0s;animation-delay:-4.0s"><text x="712" y="0">
+<tspan x="712" dy="16" fill="#00ff9c" fill-opacity="0.09">=</tspan>
+<tspan x="712" dy="16" fill="#00ff9c" fill-opacity="0.10">2</tspan>
+<tspan x="712" dy="16" fill="#00ff9c" fill-opacity="0.12">ｳ</tspan>
+<tspan x="712" dy="16" fill="#00ff9c" fill-opacity="0.15">2</tspan>
+<tspan x="712" dy="16" fill="#00ff9c" fill-opacity="0.18">ﾙ</tspan>
+<tspan x="712" dy="16" fill="#00ff9c" fill-opacity="0.21">ﾉ</tspan>
+<tspan x="712" dy="16" fill="#00ff9c" fill-opacity="0.25">ﾍ</tspan>
+<tspan x="712" dy="16" fill="#00ff9c" fill-opacity="0.28">ﾝ</tspan>
+<tspan x="712" dy="16" fill="#00ff9c" fill-opacity="0.33">/</tspan>
+<tspan x="712" dy="16" fill="#00ff9c" fill-opacity="0.37">ﾊ</tspan>
+<tspan x="712" dy="16" fill="#00ff9c" fill-opacity="0.42">ﾎ</tspan>
+<tspan x="712" dy="16" fill="#00ff9c" fill-opacity="0.47">ﾂ</tspan>
+<tspan x="712" dy="16" fill="#00ff9c" fill-opacity="0.53">ﾅ</tspan>
+<tspan x="712" dy="16" fill="#00ff9c" fill-opacity="0.58">ｺ</tspan>
+<tspan x="712" dy="16" fill="#00ff9c" fill-opacity="0.64">ﾗ</tspan>
+<tspan x="712" dy="16" fill="#00ff9c" fill-opacity="0.70">ｽ</tspan>
+<tspan x="712" dy="16" fill="#00ff9c" fill-opacity="0.76">}</tspan>
+<tspan x="712" dy="16" fill="#e8fff3" fill-opacity="1.00">*</tspan>
+</text></g>
+<g class="col" style="animation-duration:10.3s;animation-delay:-6.4s"><text x="728" y="0">
+<tspan x="728" dy="16" fill="#00ff9c" fill-opacity="0.09">4</tspan>
+<tspan x="728" dy="16" fill="#00ff9c" fill-opacity="0.11">ﾅ</tspan>
+<tspan x="728" dy="16" fill="#00ff9c" fill-opacity="0.14">ﾆ</tspan>
+<tspan x="728" dy="16" fill="#00ff9c" fill-opacity="0.17">ﾉ</tspan>
+<tspan x="728" dy="16" fill="#00ff9c" fill-opacity="0.21">ﾇ</tspan>
+<tspan x="728" dy="16" fill="#00ff9c" fill-opacity="0.25">C</tspan>
+<tspan x="728" dy="16" fill="#00ff9c" fill-opacity="0.30">ｶ</tspan>
+<tspan x="728" dy="16" fill="#00ff9c" fill-opacity="0.35">8</tspan>
+<tspan x="728" dy="16" fill="#00ff9c" fill-opacity="0.41">2</tspan>
+<tspan x="728" dy="16" fill="#00ff9c" fill-opacity="0.47">ﾐ</tspan>
+<tspan x="728" dy="16" fill="#00ff9c" fill-opacity="0.54">C</tspan>
+<tspan x="728" dy="16" fill="#00ff9c" fill-opacity="0.60">ﾖ</tspan>
+<tspan x="728" dy="16" fill="#00ff9c" fill-opacity="0.68">D</tspan>
+<tspan x="728" dy="16" fill="#00ff9c" fill-opacity="0.75">ﾏ</tspan>
+<tspan x="728" dy="16" fill="#e8fff3" fill-opacity="1.00">ﾐ</tspan>
+</text></g>
+<g class="col" style="animation-duration:10.5s;animation-delay:-2.0s"><text x="744" y="0">
+<tspan x="744" dy="16" fill="#00ff9c" fill-opacity="0.09">C</tspan>
+<tspan x="744" dy="16" fill="#00ff9c" fill-opacity="0.10">F</tspan>
+<tspan x="744" dy="16" fill="#00ff9c" fill-opacity="0.13">ﾖ</tspan>
+<tspan x="744" dy="16" fill="#00ff9c" fill-opacity="0.15">4</tspan>
+<tspan x="744" dy="16" fill="#00ff9c" fill-opacity="0.19">}</tspan>
+<tspan x="744" dy="16" fill="#00ff9c" fill-opacity="0.22">*</tspan>
+<tspan x="744" dy="16" fill="#00ff9c" fill-opacity="0.26">9</tspan>
+<tspan x="744" dy="16" fill="#00ff9c" fill-opacity="0.30">ﾆ</tspan>
+<tspan x="744" dy="16" fill="#00ff9c" fill-opacity="0.35">ﾋ</tspan>
+<tspan x="744" dy="16" fill="#00ff9c" fill-opacity="0.40">ﾂ</tspan>
+<tspan x="744" dy="16" fill="#00ff9c" fill-opacity="0.45">ﾒ</tspan>
+<tspan x="744" dy="16" fill="#00ff9c" fill-opacity="0.51">ｷ</tspan>
+<tspan x="744" dy="16" fill="#00ff9c" fill-opacity="0.57">&gt;</tspan>
+<tspan x="744" dy="16" fill="#00ff9c" fill-opacity="0.63">3</tspan>
+<tspan x="744" dy="16" fill="#00ff9c" fill-opacity="0.69">ｾ</tspan>
+<tspan x="744" dy="16" fill="#00ff9c" fill-opacity="0.76">+</tspan>
+<tspan x="744" dy="16" fill="#e8fff3" fill-opacity="1.00">ﾀ</tspan>
+</text></g>
+<g class="col" style="animation-duration:7.0s;animation-delay:-6.3s"><text x="760" y="0">
+<tspan x="760" dy="16" fill="#00ff9c" fill-opacity="0.09">ﾃ</tspan>
+<tspan x="760" dy="16" fill="#00ff9c" fill-opacity="0.12">B</tspan>
+<tspan x="760" dy="16" fill="#00ff9c" fill-opacity="0.16">ｼ</tspan>
+<tspan x="760" dy="16" fill="#00ff9c" fill-opacity="0.21">ﾎ</tspan>
+<tspan x="760" dy="16" fill="#00ff9c" fill-opacity="0.26">D</tspan>
+<tspan x="760" dy="16" fill="#00ff9c" fill-opacity="0.33">0</tspan>
+<tspan x="760" dy="16" fill="#00ff9c" fill-opacity="0.40">ｴ</tspan>
+<tspan x="760" dy="16" fill="#00ff9c" fill-opacity="0.47">9</tspan>
+<tspan x="760" dy="16" fill="#00ff9c" fill-opacity="0.55">ｷ</tspan>
+<tspan x="760" dy="16" fill="#00ff9c" fill-opacity="0.64">6</tspan>
+<tspan x="760" dy="16" fill="#00ff9c" fill-opacity="0.73">}</tspan>
+<tspan x="760" dy="16" fill="#e8fff3" fill-opacity="1.00">3</tspan>
+</text></g>
+<g class="col" style="animation-duration:7.6s;animation-delay:-0.2s"><text x="776" y="0">
+<tspan x="776" dy="16" fill="#00ff9c" fill-opacity="0.10">ｽ</tspan>
+<tspan x="776" dy="16" fill="#00ff9c" fill-opacity="0.13">ﾜ</tspan>
+<tspan x="776" dy="16" fill="#00ff9c" fill-opacity="0.17">ﾃ</tspan>
+<tspan x="776" dy="16" fill="#00ff9c" fill-opacity="0.23">ﾂ</tspan>
+<tspan x="776" dy="16" fill="#00ff9c" fill-opacity="0.29">ｵ</tspan>
+<tspan x="776" dy="16" fill="#00ff9c" fill-opacity="0.36">ﾖ</tspan>
+<tspan x="776" dy="16" fill="#00ff9c" fill-opacity="0.44">&lt;</tspan>
+<tspan x="776" dy="16" fill="#00ff9c" fill-opacity="0.53">ﾂ</tspan>
+<tspan x="776" dy="16" fill="#00ff9c" fill-opacity="0.62">&lt;</tspan>
+<tspan x="776" dy="16" fill="#00ff9c" fill-opacity="0.72">D</tspan>
+<tspan x="776" dy="16" fill="#e8fff3" fill-opacity="1.00">ｱ</tspan>
+</text></g>
+<g class="col" style="animation-duration:10.1s;animation-delay:-5.5s"><text x="808" y="0">
+<tspan x="808" dy="16" fill="#00ff9c" fill-opacity="0.09">*</tspan>
+<tspan x="808" dy="16" fill="#00ff9c" fill-opacity="0.12">A</tspan>
+<tspan x="808" dy="16" fill="#00ff9c" fill-opacity="0.15">ｿ</tspan>
+<tspan x="808" dy="16" fill="#00ff9c" fill-opacity="0.19">ﾖ</tspan>
+<tspan x="808" dy="16" fill="#00ff9c" fill-opacity="0.24">ﾐ</tspan>
+<tspan x="808" dy="16" fill="#00ff9c" fill-opacity="0.30">ﾘ</tspan>
+<tspan x="808" dy="16" fill="#00ff9c" fill-opacity="0.36">ﾀ</tspan>
+<tspan x="808" dy="16" fill="#00ff9c" fill-opacity="0.42">ｷ</tspan>
+<tspan x="808" dy="16" fill="#00ff9c" fill-opacity="0.50">ﾐ</tspan>
+<tspan x="808" dy="16" fill="#00ff9c" fill-opacity="0.57">9</tspan>
+<tspan x="808" dy="16" fill="#00ff9c" fill-opacity="0.65">E</tspan>
+<tspan x="808" dy="16" fill="#00ff9c" fill-opacity="0.74">ｹ</tspan>
+<tspan x="808" dy="16" fill="#e8fff3" fill-opacity="1.00">ｿ</tspan>
+</text></g>
+<g class="col" style="animation-duration:8.8s;animation-delay:-0.1s"><text x="824" y="0">
+<tspan x="824" dy="16" fill="#00ff9c" fill-opacity="0.09">=</tspan>
+<tspan x="824" dy="16" fill="#00ff9c" fill-opacity="0.10">ﾐ</tspan>
+<tspan x="824" dy="16" fill="#00ff9c" fill-opacity="0.13">ﾃ</tspan>
+<tspan x="824" dy="16" fill="#00ff9c" fill-opacity="0.15">ﾗ</tspan>
+<tspan x="824" dy="16" fill="#00ff9c" fill-opacity="0.19">A</tspan>
+<tspan x="824" dy="16" fill="#00ff9c" fill-opacity="0.22">ｱ</tspan>
+<tspan x="824" dy="16" fill="#00ff9c" fill-opacity="0.26">1</tspan>
+<tspan x="824" dy="16" fill="#00ff9c" fill-opacity="0.30">ﾐ</tspan>
+<tspan x="824" dy="16" fill="#00ff9c" fill-opacity="0.35">9</tspan>
+<tspan x="824" dy="16" fill="#00ff9c" fill-opacity="0.40">ﾉ</tspan>
+<tspan x="824" dy="16" fill="#00ff9c" fill-opacity="0.45">ｻ</tspan>
+<tspan x="824" dy="16" fill="#00ff9c" fill-opacity="0.51">*</tspan>
+<tspan x="824" dy="16" fill="#00ff9c" fill-opacity="0.57">2</tspan>
+<tspan x="824" dy="16" fill="#00ff9c" fill-opacity="0.63">ｹ</tspan>
+<tspan x="824" dy="16" fill="#00ff9c" fill-opacity="0.69">*</tspan>
+<tspan x="824" dy="16" fill="#00ff9c" fill-opacity="0.76">}</tspan>
+<tspan x="824" dy="16" fill="#e8fff3" fill-opacity="1.00">}</tspan>
+</text></g>
+<g class="col" style="animation-duration:10.3s;animation-delay:-0.4s"><text x="840" y="0">
+<tspan x="840" dy="16" fill="#00ff9c" fill-opacity="0.09">5</tspan>
+<tspan x="840" dy="16" fill="#00ff9c" fill-opacity="0.11">3</tspan>
+<tspan x="840" dy="16" fill="#00ff9c" fill-opacity="0.13">ﾒ</tspan>
+<tspan x="840" dy="16" fill="#00ff9c" fill-opacity="0.16">ｳ</tspan>
+<tspan x="840" dy="16" fill="#00ff9c" fill-opacity="0.20">1</tspan>
+<tspan x="840" dy="16" fill="#00ff9c" fill-opacity="0.24">ｹ</tspan>
+<tspan x="840" dy="16" fill="#00ff9c" fill-opacity="0.28">0</tspan>
+<tspan x="840" dy="16" fill="#00ff9c" fill-opacity="0.33">ﾐ</tspan>
+<tspan x="840" dy="16" fill="#00ff9c" fill-opacity="0.38">ｾ</tspan>
+<tspan x="840" dy="16" fill="#00ff9c" fill-opacity="0.43">ﾜ</tspan>
+<tspan x="840" dy="16" fill="#00ff9c" fill-opacity="0.49">ﾂ</tspan>
+<tspan x="840" dy="16" fill="#00ff9c" fill-opacity="0.55">ｶ</tspan>
+<tspan x="840" dy="16" fill="#00ff9c" fill-opacity="0.62">1</tspan>
+<tspan x="840" dy="16" fill="#00ff9c" fill-opacity="0.69">ﾝ</tspan>
+<tspan x="840" dy="16" fill="#00ff9c" fill-opacity="0.76">ﾈ</tspan>
+<tspan x="840" dy="16" fill="#e8fff3" fill-opacity="1.00">F</tspan>
+</text></g>
+<g class="col" style="animation-duration:10.0s;animation-delay:-0.6s"><text x="872" y="0">
+<tspan x="872" dy="16" fill="#00ff9c" fill-opacity="0.09">E</tspan>
+<tspan x="872" dy="16" fill="#00ff9c" fill-opacity="0.12">ｵ</tspan>
+<tspan x="872" dy="16" fill="#00ff9c" fill-opacity="0.16">ﾗ</tspan>
+<tspan x="872" dy="16" fill="#00ff9c" fill-opacity="0.21">ﾋ</tspan>
+<tspan x="872" dy="16" fill="#00ff9c" fill-opacity="0.26">ｶ</tspan>
+<tspan x="872" dy="16" fill="#00ff9c" fill-opacity="0.33">ﾋ</tspan>
+<tspan x="872" dy="16" fill="#00ff9c" fill-opacity="0.40">ｶ</tspan>
+<tspan x="872" dy="16" fill="#00ff9c" fill-opacity="0.47">ﾚ</tspan>
+<tspan x="872" dy="16" fill="#00ff9c" fill-opacity="0.55">ﾙ</tspan>
+<tspan x="872" dy="16" fill="#00ff9c" fill-opacity="0.64">=</tspan>
+<tspan x="872" dy="16" fill="#00ff9c" fill-opacity="0.73">6</tspan>
+<tspan x="872" dy="16" fill="#e8fff3" fill-opacity="1.00">&lt;</tspan>
+</text></g>
+<g class="col" style="animation-duration:7.1s;animation-delay:-6.1s"><text x="888" y="0">
+<tspan x="888" dy="16" fill="#00ff9c" fill-opacity="0.09">ｷ</tspan>
+<tspan x="888" dy="16" fill="#00ff9c" fill-opacity="0.12">ﾜ</tspan>
+<tspan x="888" dy="16" fill="#00ff9c" fill-opacity="0.15">ﾔ</tspan>
+<tspan x="888" dy="16" fill="#00ff9c" fill-opacity="0.19">ﾀ</tspan>
+<tspan x="888" dy="16" fill="#00ff9c" fill-opacity="0.24">3</tspan>
+<tspan x="888" dy="16" fill="#00ff9c" fill-opacity="0.30">B</tspan>
+<tspan x="888" dy="16" fill="#00ff9c" fill-opacity="0.36">7</tspan>
+<tspan x="888" dy="16" fill="#00ff9c" fill-opacity="0.42">C</tspan>
+<tspan x="888" dy="16" fill="#00ff9c" fill-opacity="0.50">5</tspan>
+<tspan x="888" dy="16" fill="#00ff9c" fill-opacity="0.57">ﾝ</tspan>
+<tspan x="888" dy="16" fill="#00ff9c" fill-opacity="0.65">ﾉ</tspan>
+<tspan x="888" dy="16" fill="#00ff9c" fill-opacity="0.74">{</tspan>
+<tspan x="888" dy="16" fill="#e8fff3" fill-opacity="1.00">{</tspan>
+</text></g>
+<g class="col" style="animation-duration:7.0s;animation-delay:-0.6s"><text x="904" y="0">
+<tspan x="904" dy="16" fill="#00ff9c" fill-opacity="0.09">A</tspan>
+<tspan x="904" dy="16" fill="#00ff9c" fill-opacity="0.10">ｻ</tspan>
+<tspan x="904" dy="16" fill="#00ff9c" fill-opacity="0.12">B</tspan>
+<tspan x="904" dy="16" fill="#00ff9c" fill-opacity="0.15">ﾉ</tspan>
+<tspan x="904" dy="16" fill="#00ff9c" fill-opacity="0.18">ﾗ</tspan>
+<tspan x="904" dy="16" fill="#00ff9c" fill-opacity="0.21">ﾛ</tspan>
+<tspan x="904" dy="16" fill="#00ff9c" fill-opacity="0.25">ｾ</tspan>
+<tspan x="904" dy="16" fill="#00ff9c" fill-opacity="0.28">ｻ</tspan>
+<tspan x="904" dy="16" fill="#00ff9c" fill-opacity="0.33">ﾛ</tspan>
+<tspan x="904" dy="16" fill="#00ff9c" fill-opacity="0.37">ﾗ</tspan>
+<tspan x="904" dy="16" fill="#00ff9c" fill-opacity="0.42">ﾙ</tspan>
+<tspan x="904" dy="16" fill="#00ff9c" fill-opacity="0.47">D</tspan>
+<tspan x="904" dy="16" fill="#00ff9c" fill-opacity="0.53">A</tspan>
+<tspan x="904" dy="16" fill="#00ff9c" fill-opacity="0.58">ﾇ</tspan>
+<tspan x="904" dy="16" fill="#00ff9c" fill-opacity="0.64">C</tspan>
+<tspan x="904" dy="16" fill="#00ff9c" fill-opacity="0.70">0</tspan>
+<tspan x="904" dy="16" fill="#00ff9c" fill-opacity="0.76">D</tspan>
+<tspan x="904" dy="16" fill="#e8fff3" fill-opacity="1.00">ｶ</tspan>
+</text></g>
+<g class="col" style="animation-duration:8.9s;animation-delay:-3.9s"><text x="920" y="0">
+<tspan x="920" dy="16" fill="#00ff9c" fill-opacity="0.09">ｸ</tspan>
+<tspan x="920" dy="16" fill="#00ff9c" fill-opacity="0.11">ｺ</tspan>
+<tspan x="920" dy="16" fill="#00ff9c" fill-opacity="0.14">7</tspan>
+<tspan x="920" dy="16" fill="#00ff9c" fill-opacity="0.17">2</tspan>
+<tspan x="920" dy="16" fill="#00ff9c" fill-opacity="0.21">=</tspan>
+<tspan x="920" dy="16" fill="#00ff9c" fill-opacity="0.25">ﾆ</tspan>
+<tspan x="920" dy="16" fill="#00ff9c" fill-opacity="0.30">ｴ</tspan>
+<tspan x="920" dy="16" fill="#00ff9c" fill-opacity="0.35">ﾃ</tspan>
+<tspan x="920" dy="16" fill="#00ff9c" fill-opacity="0.41">C</tspan>
+<tspan x="920" dy="16" fill="#00ff9c" fill-opacity="0.47">ｵ</tspan>
+<tspan x="920" dy="16" fill="#00ff9c" fill-opacity="0.54">ﾁ</tspan>
+<tspan x="920" dy="16" fill="#00ff9c" fill-opacity="0.60">ｹ</tspan>
+<tspan x="920" dy="16" fill="#00ff9c" fill-opacity="0.68">ﾐ</tspan>
+<tspan x="920" dy="16" fill="#00ff9c" fill-opacity="0.75">2</tspan>
+<tspan x="920" dy="16" fill="#e8fff3" fill-opacity="1.00">2</tspan>
+</text></g>
+<g class="col" style="animation-duration:5.7s;animation-delay:-0.9s"><text x="936" y="0">
+<tspan x="936" dy="16" fill="#00ff9c" fill-opacity="0.09">D</tspan>
+<tspan x="936" dy="16" fill="#00ff9c" fill-opacity="0.10">3</tspan>
+<tspan x="936" dy="16" fill="#00ff9c" fill-opacity="0.12">3</tspan>
+<tspan x="936" dy="16" fill="#00ff9c" fill-opacity="0.14">C</tspan>
+<tspan x="936" dy="16" fill="#00ff9c" fill-opacity="0.17">ｺ</tspan>
+<tspan x="936" dy="16" fill="#00ff9c" fill-opacity="0.20">ﾂ</tspan>
+<tspan x="936" dy="16" fill="#00ff9c" fill-opacity="0.23">*</tspan>
+<tspan x="936" dy="16" fill="#00ff9c" fill-opacity="0.27">2</tspan>
+<tspan x="936" dy="16" fill="#00ff9c" fill-opacity="0.31">6</tspan>
+<tspan x="936" dy="16" fill="#00ff9c" fill-opacity="0.35">ﾚ</tspan>
+<tspan x="936" dy="16" fill="#00ff9c" fill-opacity="0.39">ﾕ</tspan>
+<tspan x="936" dy="16" fill="#00ff9c" fill-opacity="0.44">ﾑ</tspan>
+<tspan x="936" dy="16" fill="#00ff9c" fill-opacity="0.49">ｿ</tspan>
+<tspan x="936" dy="16" fill="#00ff9c" fill-opacity="0.54">ｴ</tspan>
+<tspan x="936" dy="16" fill="#00ff9c" fill-opacity="0.59">ﾉ</tspan>
+<tspan x="936" dy="16" fill="#00ff9c" fill-opacity="0.65">{</tspan>
+<tspan x="936" dy="16" fill="#00ff9c" fill-opacity="0.71">+</tspan>
+<tspan x="936" dy="16" fill="#00ff9c" fill-opacity="0.77">5</tspan>
+<tspan x="936" dy="16" fill="#e8fff3" fill-opacity="1.00">ﾀ</tspan>
+</text></g>
+<g class="col" style="animation-duration:9.4s;animation-delay:-2.0s"><text x="952" y="0">
+<tspan x="952" dy="16" fill="#00ff9c" fill-opacity="0.09">ﾖ</tspan>
+<tspan x="952" dy="16" fill="#00ff9c" fill-opacity="0.11">/</tspan>
+<tspan x="952" dy="16" fill="#00ff9c" fill-opacity="0.14">ﾋ</tspan>
+<tspan x="952" dy="16" fill="#00ff9c" fill-opacity="0.18">ﾀ</tspan>
+<tspan x="952" dy="16" fill="#00ff9c" fill-opacity="0.22">ﾂ</tspan>
+<tspan x="952" dy="16" fill="#00ff9c" fill-opacity="0.27">ｺ</tspan>
+<tspan x="952" dy="16" fill="#00ff9c" fill-opacity="0.33">D</tspan>
+<tspan x="952" dy="16" fill="#00ff9c" fill-opacity="0.39">ﾈ</tspan>
+<tspan x="952" dy="16" fill="#00ff9c" fill-opacity="0.45">C</tspan>
+<tspan x="952" dy="16" fill="#00ff9c" fill-opacity="0.52">ｼ</tspan>
+<tspan x="952" dy="16" fill="#00ff9c" fill-opacity="0.59">ﾚ</tspan>
+<tspan x="952" dy="16" fill="#00ff9c" fill-opacity="0.67">0</tspan>
+<tspan x="952" dy="16" fill="#00ff9c" fill-opacity="0.75">ｹ</tspan>
+<tspan x="952" dy="16" fill="#e8fff3" fill-opacity="1.00">ﾗ</tspan>
+</text></g>
+</g>
+<g class="spin3" opacity=".75">
+<line x1="612.0" y1="185.0" x2="714.0" y2="185.0" stroke="url(#gold)" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="611.6" y1="194.8" x2="649.4" y2="198.1" stroke="url(#gold)" stroke-width="0.8" stroke-linecap="round"/>
+<line x1="610.3" y1="204.4" x2="687.1" y2="218.0" stroke="url(#gold)" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="608.2" y1="214.0" x2="644.9" y2="223.8" stroke="url(#gold)" stroke-width="0.8" stroke-linecap="round"/>
+<line x1="605.2" y1="223.3" x2="678.5" y2="250.0" stroke="url(#gold)" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="601.5" y1="232.3" x2="635.9" y2="248.4" stroke="url(#gold)" stroke-width="0.8" stroke-linecap="round"/>
+<line x1="597.0" y1="241.0" x2="685.3" y2="292.0" stroke="url(#gold)" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="591.7" y1="249.2" x2="622.9" y2="271.0" stroke="url(#gold)" stroke-width="0.8" stroke-linecap="round"/>
+<line x1="585.8" y1="257.0" x2="645.5" y2="307.1" stroke="url(#gold)" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="579.2" y1="264.2" x2="606.1" y2="291.1" stroke="url(#gold)" stroke-width="0.8" stroke-linecap="round"/>
+<line x1="572.0" y1="270.8" x2="622.1" y2="330.5" stroke="url(#gold)" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="564.2" y1="276.7" x2="586.0" y2="307.9" stroke="url(#gold)" stroke-width="0.8" stroke-linecap="round"/>
+<line x1="556.0" y1="282.0" x2="607.0" y2="370.3" stroke="url(#gold)" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="547.3" y1="286.5" x2="563.4" y2="320.9" stroke="url(#gold)" stroke-width="0.8" stroke-linecap="round"/>
+<line x1="538.3" y1="290.2" x2="565.0" y2="363.5" stroke="url(#gold)" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="529.0" y1="293.2" x2="538.8" y2="329.9" stroke="url(#gold)" stroke-width="0.8" stroke-linecap="round"/>
+<line x1="519.4" y1="295.3" x2="533.0" y2="372.1" stroke="url(#gold)" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="509.8" y1="296.6" x2="513.1" y2="334.4" stroke="url(#gold)" stroke-width="0.8" stroke-linecap="round"/>
+<line x1="500.0" y1="297.0" x2="500.0" y2="399.0" stroke="url(#gold)" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="490.2" y1="296.6" x2="486.9" y2="334.4" stroke="url(#gold)" stroke-width="0.8" stroke-linecap="round"/>
+<line x1="480.6" y1="295.3" x2="467.0" y2="372.1" stroke="url(#gold)" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="471.0" y1="293.2" x2="461.2" y2="329.9" stroke="url(#gold)" stroke-width="0.8" stroke-linecap="round"/>
+<line x1="461.7" y1="290.2" x2="435.0" y2="363.5" stroke="url(#gold)" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="452.7" y1="286.5" x2="436.6" y2="320.9" stroke="url(#gold)" stroke-width="0.8" stroke-linecap="round"/>
+<line x1="444.0" y1="282.0" x2="393.0" y2="370.3" stroke="url(#gold)" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="435.8" y1="276.7" x2="414.0" y2="307.9" stroke="url(#gold)" stroke-width="0.8" stroke-linecap="round"/>
+<line x1="428.0" y1="270.8" x2="377.9" y2="330.5" stroke="url(#gold)" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="420.8" y1="264.2" x2="393.9" y2="291.1" stroke="url(#gold)" stroke-width="0.8" stroke-linecap="round"/>
+<line x1="414.2" y1="257.0" x2="354.5" y2="307.1" stroke="url(#gold)" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="408.3" y1="249.2" x2="377.1" y2="271.0" stroke="url(#gold)" stroke-width="0.8" stroke-linecap="round"/>
+<line x1="403.0" y1="241.0" x2="314.7" y2="292.0" stroke="url(#gold)" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="398.5" y1="232.3" x2="364.1" y2="248.4" stroke="url(#gold)" stroke-width="0.8" stroke-linecap="round"/>
+<line x1="394.8" y1="223.3" x2="321.5" y2="250.0" stroke="url(#gold)" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="391.8" y1="214.0" x2="355.1" y2="223.8" stroke="url(#gold)" stroke-width="0.8" stroke-linecap="round"/>
+<line x1="389.7" y1="204.4" x2="312.9" y2="218.0" stroke="url(#gold)" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="388.4" y1="194.8" x2="350.6" y2="198.1" stroke="url(#gold)" stroke-width="0.8" stroke-linecap="round"/>
+<line x1="388.0" y1="185.0" x2="286.0" y2="185.0" stroke="url(#gold)" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="388.4" y1="175.2" x2="350.6" y2="171.9" stroke="url(#gold)" stroke-width="0.8" stroke-linecap="round"/>
+<line x1="389.7" y1="165.6" x2="312.9" y2="152.0" stroke="url(#gold)" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="391.8" y1="156.0" x2="355.1" y2="146.2" stroke="url(#gold)" stroke-width="0.8" stroke-linecap="round"/>
+<line x1="394.8" y1="146.7" x2="321.5" y2="120.0" stroke="url(#gold)" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="398.5" y1="137.7" x2="364.1" y2="121.6" stroke="url(#gold)" stroke-width="0.8" stroke-linecap="round"/>
+<line x1="403.0" y1="129.0" x2="314.7" y2="78.0" stroke="url(#gold)" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="408.3" y1="120.8" x2="377.1" y2="99.0" stroke="url(#gold)" stroke-width="0.8" stroke-linecap="round"/>
+<line x1="414.2" y1="113.0" x2="354.5" y2="62.9" stroke="url(#gold)" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="420.8" y1="105.8" x2="393.9" y2="78.9" stroke="url(#gold)" stroke-width="0.8" stroke-linecap="round"/>
+<line x1="428.0" y1="99.2" x2="377.9" y2="39.5" stroke="url(#gold)" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="435.8" y1="93.3" x2="414.0" y2="62.1" stroke="url(#gold)" stroke-width="0.8" stroke-linecap="round"/>
+<line x1="444.0" y1="88.0" x2="393.0" y2="-0.3" stroke="url(#gold)" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="452.7" y1="83.5" x2="436.6" y2="49.1" stroke="url(#gold)" stroke-width="0.8" stroke-linecap="round"/>
+<line x1="461.7" y1="79.8" x2="435.0" y2="6.5" stroke="url(#gold)" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="471.0" y1="76.8" x2="461.2" y2="40.1" stroke="url(#gold)" stroke-width="0.8" stroke-linecap="round"/>
+<line x1="480.6" y1="74.7" x2="467.0" y2="-2.1" stroke="url(#gold)" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="490.2" y1="73.4" x2="486.9" y2="35.6" stroke="url(#gold)" stroke-width="0.8" stroke-linecap="round"/>
+<line x1="500.0" y1="73.0" x2="500.0" y2="-29.0" stroke="url(#gold)" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="509.8" y1="73.4" x2="513.1" y2="35.6" stroke="url(#gold)" stroke-width="0.8" stroke-linecap="round"/>
+<line x1="519.4" y1="74.7" x2="533.0" y2="-2.1" stroke="url(#gold)" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="529.0" y1="76.8" x2="538.8" y2="40.1" stroke="url(#gold)" stroke-width="0.8" stroke-linecap="round"/>
+<line x1="538.3" y1="79.8" x2="565.0" y2="6.5" stroke="url(#gold)" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="547.3" y1="83.5" x2="563.4" y2="49.1" stroke="url(#gold)" stroke-width="0.8" stroke-linecap="round"/>
+<line x1="556.0" y1="88.0" x2="607.0" y2="-0.3" stroke="url(#gold)" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="564.2" y1="93.3" x2="586.0" y2="62.1" stroke="url(#gold)" stroke-width="0.8" stroke-linecap="round"/>
+<line x1="572.0" y1="99.2" x2="622.1" y2="39.5" stroke="url(#gold)" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="579.2" y1="105.8" x2="606.1" y2="78.9" stroke="url(#gold)" stroke-width="0.8" stroke-linecap="round"/>
+<line x1="585.8" y1="113.0" x2="645.5" y2="62.9" stroke="url(#gold)" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="591.7" y1="120.8" x2="622.9" y2="99.0" stroke="url(#gold)" stroke-width="0.8" stroke-linecap="round"/>
+<line x1="597.0" y1="129.0" x2="685.3" y2="78.0" stroke="url(#gold)" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="601.5" y1="137.7" x2="635.9" y2="121.6" stroke="url(#gold)" stroke-width="0.8" stroke-linecap="round"/>
+<line x1="605.2" y1="146.7" x2="678.5" y2="120.0" stroke="url(#gold)" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="608.2" y1="156.0" x2="644.9" y2="146.2" stroke="url(#gold)" stroke-width="0.8" stroke-linecap="round"/>
+<line x1="610.3" y1="165.6" x2="687.1" y2="152.0" stroke="url(#gold)" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="611.6" y1="175.2" x2="649.4" y2="171.9" stroke="url(#gold)" stroke-width="0.8" stroke-linecap="round"/>
+</g>
+<g class="spin"><circle cx="500" cy="185" r="182" fill="none" stroke="#fbbf24" stroke-width="1.4" stroke-dasharray="2 9" opacity=".9"/></g>
+<g class="spin2"><circle cx="500" cy="185" r="168" fill="none" stroke="#22d3ee" stroke-width="1.6" stroke-dasharray="34 8 4 8" opacity=".75"/></g>
+<circle cx="500" cy="185" r="150" fill="none" stroke="#ec4899" stroke-width="1" opacity=".55"/>
+<g class="spin3"><circle cx="500" cy="185" r="136" fill="none" stroke="#fde68a" stroke-width="1" stroke-dasharray="1 5" opacity=".8"/></g>
+<g class="spin2" filter="url(#softglow)" fill="none" stroke="#fbbf24" stroke-width="1.3" opacity=".9"><polygon points="500.0,35.0 629.9,260.0 370.1,260.0"/><polygon points="500.0,335.0 370.1,110.0 629.9,110.0"/></g>
+<g class="spin" fill="none" stroke="#67e8f9" stroke-width="1" opacity=".8"><polygon points="500.0,77.0 593.5,239.0 406.5,239.0"/><polygon points="500.0,293.0 406.5,131.0 593.5,131.0"/></g>
+<g class="spin4"><circle cx="668" cy="185" r="6" fill="#67e8f9" filter="url(#glow)"/></g>
+<g class="spin5"><circle cx="350" cy="185" r="5" fill="#f472b6" filter="url(#glow)"/><circle cx="350" cy="185" r="9" fill="none" stroke="#f472b6" stroke-width=".8" opacity=".6"/></g>
+<g class="spin3"><circle cx="500" cy="3" r="4" fill="#fde68a" filter="url(#glow)"/></g>
+<g class="blink">
+<path d="M395 185 Q500 92 605 185 Q500 278 395 185 Z" fill="url(#eyefill)"/>
+<g clip-path="url(#eyeclip)">
+<circle cx="500" cy="185" r="48" fill="url(#iris)"/>
+<g class="spin4" opacity=".7">
+<line x1="516.0" y1="185.0" x2="546.0" y2="185.0" stroke="#e0f2fe" stroke-width=".6"/>
+<line x1="515.8" y1="187.8" x2="545.3" y2="193.0" stroke="#e0f2fe" stroke-width=".6"/>
+<line x1="515.0" y1="190.5" x2="543.2" y2="200.7" stroke="#e0f2fe" stroke-width=".6"/>
+<line x1="513.9" y1="193.0" x2="539.8" y2="208.0" stroke="#e0f2fe" stroke-width=".6"/>
+<line x1="512.3" y1="195.3" x2="535.2" y2="214.6" stroke="#e0f2fe" stroke-width=".6"/>
+<line x1="510.3" y1="197.3" x2="529.6" y2="220.2" stroke="#e0f2fe" stroke-width=".6"/>
+<line x1="508.0" y1="198.9" x2="523.0" y2="224.8" stroke="#e0f2fe" stroke-width=".6"/>
+<line x1="505.5" y1="200.0" x2="515.7" y2="228.2" stroke="#e0f2fe" stroke-width=".6"/>
+<line x1="502.8" y1="200.8" x2="508.0" y2="230.3" stroke="#e0f2fe" stroke-width=".6"/>
+<line x1="500.0" y1="201.0" x2="500.0" y2="231.0" stroke="#e0f2fe" stroke-width=".6"/>
+<line x1="497.2" y1="200.8" x2="492.0" y2="230.3" stroke="#e0f2fe" stroke-width=".6"/>
+<line x1="494.5" y1="200.0" x2="484.3" y2="228.2" stroke="#e0f2fe" stroke-width=".6"/>
+<line x1="492.0" y1="198.9" x2="477.0" y2="224.8" stroke="#e0f2fe" stroke-width=".6"/>
+<line x1="489.7" y1="197.3" x2="470.4" y2="220.2" stroke="#e0f2fe" stroke-width=".6"/>
+<line x1="487.7" y1="195.3" x2="464.8" y2="214.6" stroke="#e0f2fe" stroke-width=".6"/>
+<line x1="486.1" y1="193.0" x2="460.2" y2="208.0" stroke="#e0f2fe" stroke-width=".6"/>
+<line x1="485.0" y1="190.5" x2="456.8" y2="200.7" stroke="#e0f2fe" stroke-width=".6"/>
+<line x1="484.2" y1="187.8" x2="454.7" y2="193.0" stroke="#e0f2fe" stroke-width=".6"/>
+<line x1="484.0" y1="185.0" x2="454.0" y2="185.0" stroke="#e0f2fe" stroke-width=".6"/>
+<line x1="484.2" y1="182.2" x2="454.7" y2="177.0" stroke="#e0f2fe" stroke-width=".6"/>
+<line x1="485.0" y1="179.5" x2="456.8" y2="169.3" stroke="#e0f2fe" stroke-width=".6"/>
+<line x1="486.1" y1="177.0" x2="460.2" y2="162.0" stroke="#e0f2fe" stroke-width=".6"/>
+<line x1="487.7" y1="174.7" x2="464.8" y2="155.4" stroke="#e0f2fe" stroke-width=".6"/>
+<line x1="489.7" y1="172.7" x2="470.4" y2="149.8" stroke="#e0f2fe" stroke-width=".6"/>
+<line x1="492.0" y1="171.1" x2="477.0" y2="145.2" stroke="#e0f2fe" stroke-width=".6"/>
+<line x1="494.5" y1="170.0" x2="484.3" y2="141.8" stroke="#e0f2fe" stroke-width=".6"/>
+<line x1="497.2" y1="169.2" x2="492.0" y2="139.7" stroke="#e0f2fe" stroke-width=".6"/>
+<line x1="500.0" y1="169.0" x2="500.0" y2="139.0" stroke="#e0f2fe" stroke-width=".6"/>
+<line x1="502.8" y1="169.2" x2="508.0" y2="139.7" stroke="#e0f2fe" stroke-width=".6"/>
+<line x1="505.5" y1="170.0" x2="515.7" y2="141.8" stroke="#e0f2fe" stroke-width=".6"/>
+<line x1="508.0" y1="171.1" x2="523.0" y2="145.2" stroke="#e0f2fe" stroke-width=".6"/>
+<line x1="510.3" y1="172.7" x2="529.6" y2="149.8" stroke="#e0f2fe" stroke-width=".6"/>
+<line x1="512.3" y1="174.7" x2="535.2" y2="155.4" stroke="#e0f2fe" stroke-width=".6"/>
+<line x1="513.9" y1="177.0" x2="539.8" y2="162.0" stroke="#e0f2fe" stroke-width=".6"/>
+<line x1="515.0" y1="179.5" x2="543.2" y2="169.3" stroke="#e0f2fe" stroke-width=".6"/>
+<line x1="515.8" y1="182.2" x2="545.3" y2="177.0" stroke="#e0f2fe" stroke-width=".6"/>
+</g>
+<circle cx="500" cy="185" r="48" fill="none" stroke="#fde68a" stroke-width="1.5" opacity=".9"/>
+<ellipse class="pupil" cx="500" cy="185" rx="9" ry="27" fill="#02010a"/>
+<circle cx="484" cy="169" r="5" fill="#fff" opacity=".9"/><circle cx="514" cy="198" r="2.2" fill="#fff" opacity=".7"/>
+</g>
+<path d="M395 185 Q500 92 605 185 Q500 278 395 185 Z" fill="none" stroke="url(#gold)" stroke-width="3" filter="url(#glow)"/>
+</g>
+<path d="M370 185 L395 185 M605 185 L630 185" stroke="url(#gold)" stroke-width="2" stroke-linecap="round" opacity=".9"/>
+<circle cx="368" cy="185" r="3" fill="#fde68a"/><circle cx="632" cy="185" r="3" fill="#fde68a"/>
+<polygon points="500,62 509,76 500,90 491,76" fill="#a5f3fc" stroke="#fde68a" stroke-width="1.5" filter="url(#glow)" class="pulse"/>
+<rect x="0" y="330" width="1000" height="130" fill="url(#band)"/>
+<text class="title" x="500" y="393" text-anchor="middle" font-size="42" letter-spacing="7" fill="url(#titlegrad)" filter="url(#glow)">SASANKA GAYATHRA</text>
+<text class="mono" x="500" y="428" text-anchor="middle" font-size="16" fill="#b8f5d8" letter-spacing="1">&lt; Full Stack Developer /&gt; · C# · .NET · React · Node · Java<tspan class="cur" fill="#00ff9c"> _</tspan></text>
+<rect x="1" y="1" width="998" height="458" rx="17" fill="none" stroke="#8b5cf6" stroke-opacity=".5" stroke-width="2"/>
+</g></svg>
