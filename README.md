@@ -1,7 +1,7 @@
 <!-- ===================== HEADER BANNER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Sasanka%20Gayathra&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Galle%2C%20Sri%20Lanka&descSize=18&descAlignY=60" width="100%" />
+<img src="https://raw.githubusercontent.com/sasanka2023/sasanka2023/main/cosmic-matrix.svg" alt="Sasanka Gayathra - Cosmic Matrix banner" width="100%" />
 
 <!-- ===================== TYPING INTRO ===================== -->
 <a href="https://git.io/typing-svg">
