@@ -1,6 +1,6 @@
 <!-- ===================== HEADER BANNER ===================== -->
 <div align="center">
-
+  
 <img src="https://raw.githubusercontent.com/sasanka2023/sasanka2023/main/cosmic-matrix.svg" alt="Sasanka Gayathra - Cosmic Matrix banner" width="100%" />
 
 <!-- ===================== TYPING INTRO ===================== -->
